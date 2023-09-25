@@ -1,0 +1,157 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = czech-pdt-ud-2.10-220711
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+# text = Dnů čaloun rozvijí se přede mnou, sám do něho tkám pestré arabesky, myšlének bájné květy, cit a stesky a touhu k světlu věčnou, tajemnou – a co tak různobarvý temně svítí, dím k sobě: „Ejhle žití!“
+1	Dnů	den	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	3	nsubj	_	SpacesBefore=\s
+2	čaloun	čaloun	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	1	nmod	_	_
+3	rozvijí	rozvít	VERB	VB-P---3P-AA--1	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	3	expl:pv	_	_
+5	přede	před	ADP	RV--7----------	AdpType=Voc|Case=Ins	6	case	_	_
+6	mnou	já	PRON	PP-S7--1-------	Case=Ins|Number=Sing|Person=1|PronType=Prs	3	obl	_	SpaceAfter=No
+7	,	,	PUNCT	Z:-------------	_	11	punct	_	_
+8	sám	samý	DET	PLYS1----------	Case=Nom|Gender=Masc|Number=Sing|PronType=Emp|Variant=Short	11	xcomp	_	_
+9	do	do	ADP	RR--2----------	AdpType=Prep|Case=Gen	10	case	_	_
+10	něho	on	PRON	P5ZS2--3------1	Case=Gen|Gender=Masc,Neut|Number=Sing|Person=3|PrepCase=Pre|PronType=Prs	11	obl	_	_
+11	tkám	tkat	VERB	VB-S---1P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
+12	pestré	pestrý	ADJ	AAFP4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	13	amod	_	_
+13	arabesky	arabeska	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	11	obj	_	SpaceAfter=No
+14	,	,	PUNCT	Z:-------------	_	15	punct	_	_
+15	myšlének	myšlénka	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	11	conj	_	_
+16	bájné	bájný	ADJ	AAIP4----1A----	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	17	amod	_	_
+17	květy	květ	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	15	orphan	_	SpaceAfter=No
+18	,	,	PUNCT	Z:-------------	_	19	punct	_	_
+19	cit	cit	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	13	conj	_	_
+20	a	a	CCONJ	J^-------------	_	21	cc	_	_
+21	stesky	stesk	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	19	conj	_	_
+22	a	a	CCONJ	J^-------------	_	23	cc	_	_
+23	touhu	touha	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	13	conj	_	_
+24	k	k	ADP	RR--3----------	AdpType=Prep|Case=Dat	25	case	_	_
+25	světlu	světlo	NOUN	NNNS3-----A----	Case=Dat|Gender=Neut|Number=Sing|Polarity=Pos	23	nmod	_	_
+26	věčnou	věčný	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	23	amod	_	SpaceAfter=No
+27	,	,	PUNCT	Z:-------------	_	28	punct	_	_
+28	tajemnou	tajemný	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	26	conj	_	_
+29	–	–	PUNCT	Z:-------------	_	37	punct	_	_
+30	a	a	CCONJ	J^-------------	_	37	cc	_	_
+31	co	co	PRON	PQ--1----------	Animacy=Inan|Case=Nom|PronType=Int,Rel	35	nsubj	_	_
+32	tak	tak	ADV	Db-------------	PronType=Dem	33	advmod	_	_
+33	různobarvý	různobarvý	ADJ	AAIS1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	35	dep	_	_
+34	temně	temně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	35	advmod	_	_
+35	svítí	svítit	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	37	advcl	_	SpaceAfter=No
+36	,	,	PUNCT	Z:-------------	_	35	punct	_	_
+37	dím	dít	VERB	VB-S---1P-AA---	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
+38	k	k	ADP	RR--3----------	AdpType=Prep|Case=Dat	39	case	_	_
+39	sobě	se	PRON	P6-X3----------	Case=Dat|PronType=Prs|Reflex=Yes	37	obl	_	SpaceAfter=No
+40	:	:	PUNCT	Z:-------------	_	37	punct	_	_
+41	„	"	PUNCT	Z:-------------	_	37	punct	_	SpaceAfter=No
+42	Ejhle	ejhle	INTJ	II-------------	_	37	dep	_	_
+43	žití	žití	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	37	dep	_	SpaceAfter=No
+44	!	!	PUNCT	Z:-------------	_	3	punct	_	SpaceAfter=No
+45	“	"	PUNCT	Z:-------------	_	3	punct	_	_
+
+# sent_id = 2
+# text = Kde přestanu, tam kouzelnice Noc začíná tkáti na myšlének stavu, kam nedospěl jsem, jde mi na pomoc, o hvězdy nebes zloupí vlastní hlavu, k nim rosu dá, co v květinách se třpytí, řkouc tiše: Ejhle žití!
+1	Kde	kde	ADV	Db-------------	PronType=Int,Rel	2	advmod	_	_
+2	přestanu	přestat	VERB	VB-S---1P-AA---	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	SpaceAfter=No
+3	,	,	PUNCT	Z:-------------	_	2	punct	_	_
+4	tam	tam	ADV	Db-------------	PronType=Dem	7	advmod	_	_
+5	kouzelnice	kouzelnice	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	7	nsubj	_	_
+6	Noc	noc	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	7	nsubj	_	_
+7	začíná	začínat	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8	tkáti	tkát	VERB	Vf--------A---2	Polarity=Pos|Style=Arch|VerbForm=Inf	7	xcomp	_	_
+9	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	10	case	_	_
+10	myšlének	myšlénka	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	8	obl	_	_
+11	stavu	stav	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	10	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	Z:-------------	_	14	punct	_	_
+13	kam	kam	ADV	Db-------------	PronType=Int,Rel	14	advmod	_	_
+14	nedospěl	dospět	VERB	VpYS---XR-NA---	Gender=Masc|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act	11	acl:relcl	_	_
+15	jsem	být	AUX	VB-S---1P-AA---	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	14	aux	_	SpaceAfter=No
+16	,	,	PUNCT	Z:-------------	_	17	punct	_	_
+17	jde	jít	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	_
+18	mi	já	PRON	PH-S3--1-------	Case=Dat|Number=Sing|Person=1|PronType=Prs|Variant=Short	17	obl:arg	_	_
+19	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	20	case	_	_
+20	pomoc	pomoc	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	17	obl	_	SpaceAfter=No
+21	,	,	PUNCT	Z:-------------	_	25	punct	_	_
+22	o	o	ADP	RR--4----------	AdpType=Prep|Case=Acc	23	case	_	_
+23	hvězdy	hvězda	NOUN	NNFP4-----A----	Case=Acc|Gender=Fem|Number=Plur|Polarity=Pos	25	obl	_	_
+24	nebes	nebesa	NOUN	NNNP2-----A----	Case=Gen|Gender=Neut|Number=Plur|Polarity=Pos	23	nmod	_	_
+25	zloupí	zloupit	VERB	VB-S---3P-AA---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	_
+26	vlastní	vlastní	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	27	amod	_	_
+27	hlavu	hlava	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	25	obj	_	SpaceAfter=No
+28	,	,	PUNCT	Z:-------------	_	32	punct	_	_
+29	k	k	ADP	RR--3----------	AdpType=Prep|Case=Dat	30	case	_	_
+30	nim	on	PRON	P5XP3--3-------	Case=Dat|Number=Plur|Person=3|PrepCase=Pre|PronType=Prs	32	obl	_	_
+31	rosu	rosa	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	32	obj	_	_
+32	dá	dát	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	SpaceAfter=No
+33	,	,	PUNCT	Z:-------------	_	38	punct	_	_
+34	co	co	PRON	PQ--1----------	Animacy=Inan|Case=Nom|PronType=Int,Rel	38	nsubj	_	_
+35	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	36	case	_	_
+36	květinách	květina	NOUN	NNFP6-----A----	Case=Loc|Gender=Fem|Number=Plur|Polarity=Pos	38	obl	_	_
+37	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	38	expl:pv	_	_
+38	třpytí	třpytit	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	32	ccomp	_	SpaceAfter=No
+39	,	,	PUNCT	Z:-------------	_	40	punct	_	_
+40	řkouc	řkouc	VERB	VeFS------A----	Aspect=Imp|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Conv|Voice=Act	7	xcomp	_	_
+41	tiše	tiše	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	40	advmod	_	SpaceAfter=No
+42	:	:	PUNCT	Z:-------------	_	44	punct	_	_
+43	Ejhle	ejhle	INTJ	II-------------	_	44	dep	_	_
+44	žití	žití	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	40	dep	_	SpaceAfter=No
+45	!	!	PUNCT	Z:-------------	_	7	punct	_	_
+
+# sent_id = 3
+# text = A ráno pak se často divím víc, než Fra Angelico, jenž v ruce schoval tvář bledou žasem, Madonny když líc mu anděl tajně přes noc domaloval!
+1	A	a	CCONJ	J^-------------	_	6	cc	_	_
+2	ráno	ráno	ADV	Db-------------	_	6	advmod	_	_
+3	pak	pak	ADV	Db-------------	_	6	advmod	_	_
+4	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	6	expl:pv	_	_
+5	často	často	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	6	advmod	_	_
+6	divím	divit	VERB	VB-S---1P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	víc	hodně	ADV	Dg-------2A---1	Degree=Cmp|Polarity=Pos	6	advmod	_	SpaceAfter=No
+8	,	,	PUNCT	Z:-------------	_	10	punct	_	_
+9	než	než	SCONJ	J,-------------	_	10	mark	_	_
+10	Fra	Fra	PROPN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing|Polarity=Pos	7	advcl	_	_
+11	Angelico	Angelico	PROPN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing|Polarity=Pos	10	flat	_	SpaceAfter=No
+12	,	,	PUNCT	Z:-------------	_	16	punct	_	_
+13	jenž	jenž	PRON	PJYS1----------	Case=Nom|Gender=Masc|Number=Sing|PrepCase=Npr|PronType=Rel	16	nsubj	_	_
+14	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	15	case	_	_
+15	ruce	ruka	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	16	obl	_	_
+16	schoval	schovat	VERB	VpYS---XR-AA---	Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	10	acl:relcl	_	_
+17	tvář	tvář	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	16	obj	_	_
+18	bledou	bledý	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	17	amod	_	_
+19	žasem	žas	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	18	obl	_	SpaceAfter=No
+20	,	,	PUNCT	Z:-------------	_	21	punct	_	_
+21	Madonny	Madonna	PROPN	NNFS2-----A----	Case=Gen|Gender=Fem|NameType=Giv|Number=Sing|Polarity=Pos	10	conj	_	_
+22	když	když	SCONJ	J,-------------	_	29	mark	_	_
+23	líc	líc	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	29	obj	_	_
+24	mu	on	PRON	PHZS3--3-------	Case=Dat|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs|Variant=Short	29	obl:arg	_	_
+25	anděl	anděl	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	29	nsubj	_	_
+26	tajně	tajně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	29	advmod	_	_
+27	přes	přes	ADP	RR--4----------	AdpType=Prep|Case=Acc	28	case	_	_
+28	noc	noc	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	29	obl	_	_
+29	domaloval	domalovat	VERB	VpYS---XR-AA---	Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	21	orphan	_	SpaceAfter=No
+30	!	!	PUNCT	Z:-------------	_	6	punct	_	_
+
+# sent_id = 4
+# text = Z tvé číše, poesie, musím píti.
+1	Z	z	ADP	RR--2----------	AdpType=Prep|Case=Gen	3	case	_	_
+2	tvé	tvůj	DET	P8FS2---------1	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	3	det	_	_
+3	číše	číše	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	7	obl	_	SpaceAfter=No
+4	,	,	PUNCT	Z:-------------	_	5	punct	_	_
+5	poesie	poesie	NOUN	NNFS5-----A----	Case=Voc|Gender=Fem|Number=Sing|Polarity=Pos	7	vocative	_	SpaceAfter=No
+6	,	,	PUNCT	Z:-------------	_	7	punct	_	_
+7	musím	muset	VERB	VB-S---1P-AA---	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8	píti	píti	VERB	Vf--------A---2	Polarity=Pos|Style=Arch|VerbForm=Inf	7	xcomp	_	SpaceAfter=No
+9	.	.	PUNCT	Z:-------------	_	7	punct	_	_
+
+# sent_id = 5
+# text = Kde sen jest, kde jest žití?
+1	Kde	kde	ADV	Db-------------	PronType=Int,Rel	3	advmod	_	_
+2	sen	sen	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	3	nsubj	_	_
+3	jest	být	AUX	VB-S---3P-AA--2	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Style=Arch|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	Z:-------------	_	7	punct	_	_
+5	kde	kde	ADV	Db-------------	PronType=Int,Rel	7	advmod	_	_
+6	jest	být	AUX	VB-S---3P-AA--2	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Style=Arch|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	_
+7	žití	žití	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	3	conj	_	SpaceAfter=No
+8	?	?	PUNCT	Z:-------------	_	3	punct	_	_
+
