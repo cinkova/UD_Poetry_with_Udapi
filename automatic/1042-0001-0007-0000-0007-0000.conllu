@@ -3,7 +3,7 @@
 # udpipe_model_licence = CC BY-NC-SA
 # newdoc
 # newpar
-# sent_id = 1
+# sent_id = 1042-0001-0007-0000-0007-0000_1
 # text = Dlaň, vaše dědy od Jordanských břehů jež vedla k břehům Vltavy a Labe v zlém dešti urážek a v důtek šlehu, z vás kdysi velkých udělala slabé, ta ruka drtící, jak žernov těžká, ta trestající ruka Hospodina, jež pálí rýdlem Kaina tam, kde mešká, by lkala lítost, kde se smála vina, ta ruka, jež nechala věky dštíti Egyptské rány na váš národ bídný, dnes ještě která jiskru záště nítí, že otráven je den váš i sen klidný;
 1	Dlaň	dlaň	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	28	nsubj	_	SpacesBefore=\s|SpaceAfter=No
 2	,	,	PUNCT	Z:-------------	_	4	punct	_	_
@@ -97,7 +97,7 @@
 90	klidný	klidný	ADJ	AAIS1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	89	amod	_	SpaceAfter=No
 91	;	;	PUNCT	Z:-------------	_	28	punct	_	_
 
-# sent_id = 2
+# sent_id = 1042-0001-0007-0000-0007-0000_2
 # text = ta ruka přec jen, i když nejvíc bila, svou lásku otcovskou vám nezapřela; kdy pohrom, běd se na vás vřava lila, ta ruka bludným Čechy otevřela.
 1	ta	ten	DET	PDFS1----------	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
 2	ruka	ruka	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	15	nsubj	_	_
@@ -132,7 +132,7 @@
 31	otevřela	otevřít	VERB	VpQW---XR-AA---	Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	15	conj	_	SpaceAfter=No
 32	.	.	PUNCT	Z:-------------	_	15	punct	_	_
 
-# sent_id = 3
+# sent_id = 1042-0001-0007-0000-0007-0000_3
 # text = A nechť i neměl proudem dlouhých věků na růžích stláno zde syn Israele, přec našel časem těchy zde a léku, že mohl z prachu pozvednout skráň směle.
 1	A	a	CCONJ	J^-------------	_	4	cc	_	_
 2	nechť	nechť	PART	TT-------------	_	4	advmod	_	_
@@ -165,7 +165,7 @@
 29	směle	směle	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	27	advmod	_	SpaceAfter=No
 30	.	.	PUNCT	Z:-------------	_	4	punct	_	_
 
-# sent_id = 4
+# sent_id = 1042-0001-0007-0000-0007-0000_4
 # text = Že mohl říci: „Dýchám zas a žiji, mám druhý Sion, když mi první zbořen, kde v zemi stejně svaté poesií můž’ v nové odnože můj hnáti kořen!“
 1	Že	že	SCONJ	J,-------------	_	2	mark	_	_
 2	mohl	moci	VERB	VpYS---XR-AA---	Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
@@ -202,7 +202,7 @@
 33	!	!	PUNCT	Z:-------------	_	2	punct	_	SpaceAfter=No
 34	“	"	PUNCT	Z:-------------	_	2	punct	_	_
 
-# sent_id = 5
+# sent_id = 1042-0001-0007-0000-0007-0000_5
 # text = Tak zůstali jste mezi věncem lesů té staré vlasti, v středu žírných luhů i hlučných měst, a v ústrku a plesu jste přilnuli k nám oddaně druh k druhu.
 1	Tak	tak	ADV	Db-------------	PronType=Dem	2	advmod	_	_
 2	zůstali	zůstat	VERB	VpMP---XR-AA---	Animacy=Anim|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
@@ -237,7 +237,7 @@
 31	druhu	druh	NOUN	NNIS3-----A----	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos	29	obl	_	SpaceAfter=No
 32	.	.	PUNCT	Z:-------------	_	2	punct	_	_
 
-# sent_id = 6
+# sent_id = 1042-0001-0007-0000-0007-0000_6
 # text = Vždyť poznali jste, kam jdou naše snahy, že to jen chcem, nad čehož lkáte ztrátou, zvát svými drahé domoviny prahy, být všady doma palácem i chatou.
 1	Vždyť	vždyť	CCONJ	J^-------------	_	2	cc	_	_
 2	poznali	poznat	VERB	VpMP---XR-AA---	Animacy=Anim|Aspect=Perf|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
@@ -272,7 +272,7 @@
 31	chatou	chata	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	29	conj	_	SpaceAfter=No
 32	.	.	PUNCT	Z:-------------	_	2	punct	_	_
 
-# sent_id = 7
+# sent_id = 1042-0001-0007-0000-0007-0000_7
 # text = Vždyť poznali jste, že na hroudě této, již osud nám dal, s každým chcem se snésti, kdo právo ctí, že chcem, co dědy seto, by vnukům zrálo v žeň a zdar a štěstí.
 1	Vždyť	vždyť	CCONJ	J^-------------	_	2	cc	_	_
 2	poznali	poznat	VERB	VpMP---XR-AA---	Animacy=Anim|Aspect=Perf|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
@@ -316,7 +316,7 @@
 40	štěstí	štěstí	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	36	conj	_	SpaceAfter=No
 41	.	.	PUNCT	Z:-------------	_	2	punct	_	_
 
-# sent_id = 8
+# sent_id = 1042-0001-0007-0000-0007-0000_8
 # text = Vždyť poznali jste, srdce jako ruku že otvíráme rádi ku objetí všem, kdo chtí s naší písní do souzvuku a s naším pluhem jednou brázdou spěti.
 1	Vždyť	vždyť	CCONJ	J^-------------	_	2	cc	_	_
 2	poznali	poznat	VERB	VpMP---XR-AA---	Animacy=Anim|Aspect=Perf|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
@@ -348,7 +348,7 @@
 28	spěti	spět	VERB	Vf--------A---2	Polarity=Pos|Style=Arch|VerbForm=Inf	16	xcomp	_	SpaceAfter=No
 29	.	.	PUNCT	Z:-------------	_	2	punct	_	_
 
-# sent_id = 9
+# sent_id = 1042-0001-0007-0000-0007-0000_9
 # text = Vždyť poznali jste, lidskost že tu doma, jen její nepřítel že naším sokem, že „Láska!“ s chvějnýma vždy díme rtoma a „Pokoj všem a shoda!“ s vlhkým okem.
 1	Vždyť	vždyť	CCONJ	J^-------------	_	2	cc	_	_
 2	poznali	poznat	VERB	VpMP---XR-AA---	Animacy=Anim|Aspect=Perf|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
@@ -389,7 +389,7 @@
 37	okem	oko	NOUN	NNNS7-----A----	Case=Ins|Gender=Neut|Number=Sing|Polarity=Pos	29	orphan	_	SpaceAfter=No
 38	.	.	PUNCT	Z:-------------	_	2	punct	_	_
 
-# sent_id = 10
+# sent_id = 1042-0001-0007-0000-0007-0000_10
 # text = Tak znáte nás, nuž, modlám dejte cizím již výhost u Labe i u Vltavy, na Sion zapomeňte, na Garizim; vlast všady je, kde dýše člověk pravý.
 1	Tak	tak	ADV	Db-------------	PronType=Dem	2	advmod	_	_
 2	znáte	znát	VERB	VB-P---2P-AA---	Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
