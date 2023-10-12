@@ -4,10 +4,10 @@
 # newdoc
 # newpar
 # sent_id = 1010-0001-0001-0000-0001-0000_1
-# text = Dnů čaloun rozvijí se přede mnou, sám do něho tkám pestré arabesky, myšlének bájné květy, cit a stesky a touhu k světlu věčnou, tajemnou – a co tak různobarvý temně svítí, dím k sobě: „Ejhle žití!“
+# text = Dnů čaloun rozvíjí se přede mnou, sám do něho tkám pestré arabesky, myšlének bájné květy, cit a stesky a touhu k světlu věčnou, tajemnou – a co tak různobarvý temně svítí, dím k sobě: „Ejhle žití!“
 1	Dnů	den	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	3	nsubj	_	SpacesBefore=\s
 2	čaloun	čaloun	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	1	nmod	_	_
-3	rozvijí	rozvít	VERB	VB-P---3P-AA--1	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	rozvíjí	rozvít	VERB	VB-P---3P-AA--1	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	3	expl:pv	_	_
 5	přede	před	ADP	RV--7----------	AdpType=Voc|Case=Ins	6	case	_	_
 6	mnou	já	PRON	PP-S7--1-------	Case=Ins|Number=Sing|Person=1|PronType=Prs	3	obl	_	SpaceAfter=No
