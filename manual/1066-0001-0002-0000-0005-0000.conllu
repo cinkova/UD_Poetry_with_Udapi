@@ -118,7 +118,7 @@
 8	!	!	PUNCT	Z:-------------	_	6	punct	_	_
 
 # sent_id = 1066-0001-0002-0000-0005-0000_8
-# text = Jak on vyzýváš bohy v boj, na co toužíš nebes diademu svých ňader snoubit nepokoj?
+# text = Jak on vyzýváš bohy v boj, nač toužíš nebes diademu svých ňader snoubit nepokoj?
 1	Jak	jako	SCONJ	Db-------------	_	2	mark	_	_
 2	on	on	PRON	PPYS1--3-------	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	advcl	_	_
 3	vyzýváš	vyzývat	VERB	VB-S---2P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -126,6 +126,7 @@
 5	v	v	ADP	RR--4----------	AdpType=Prep|Case=Acc	6	case	_	_
 6	boj	boj	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	3	obl	_	SpaceAfter=No
 7	,	,	PUNCT	Z:-------------	_	10	punct	_	_
+8-9	nač	_	_	_	_	_	_	_	_
 8	na	na	ADP	Db-------------	_	9	case	_	_
 9	co	co	PRON	Db-------------	Animacy=Inan|Case=Acc|PronType=Int	10	obl	_	_
 10	toužíš	toužit	VERB	VB-S---2P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	_	_
