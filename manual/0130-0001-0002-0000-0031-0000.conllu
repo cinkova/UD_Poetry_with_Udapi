@@ -1,7 +1,8 @@
 # newdoc id = 0130-0001-0002-0000-0031-0000
 # sent_id = 0130-0001-0002-0000-0031-0000_1
-# text = Proč musil jsi umřít v onom soumraku, jakou to vůlí zlomena tvá vůle, že jsi odešel v den strašných přízraků, kdy příští bylo mnohem dál než Thule?
+# text = Proč musil’s umřít v onom soumraku, jakou to vůlí zlomena tvá vůle, že’s odešel v den strašných přízraků, kdy příští bylo mnohem dál než Thule?
 1	Proč	proč	ADV	Db-------------	PronType=Int	2	advmod	_	SpacesBefore=\s
+2-3	musil’s	_	_	_	_	_	_	_	_
 2	musil	muset	VERB	VpYS---XR-AA---	Aspect=Imp|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
 3	jsi	být	AUX	VpYS---XR-AA---	Aspect=Imp|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	2	aux	_	_
 4	umřít	umřít	VERB	Vf--------A----	Aspect=Perf|Polarity=Pos|VerbForm=Inf	2	xcomp	_	_
@@ -16,6 +17,7 @@
 13	tvá	tvůj	DET	PSFS1-S1------1	Case=Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	14	det	_	_
 14	vůle	vůle	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	12	nsubj:pass	_	SpaceAfter=No
 15	,	,	PUNCT	Z:-------------	_	18	punct	_	_
+16-17	že’s	_	_	_	_	_	_	_	_
 16	že	že	SCONJ	NNMS1-----A----	_	18	mark	_	_
 17	jsi	být	AUX	NNMS1-----A----	_	18	aux	_	_
 18	odešel	odejít	VERB	VpYS---XR-AA---	Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	12	acl	_	_
@@ -34,12 +36,13 @@
 31	?	?	PUNCT	Z:-------------	_	2	punct	_	_
 
 # sent_id = 0130-0001-0002-0000-0031-0000_2
-# text = A prapor, který by jsi si viset přál, vlát v triumfu den k slávě rodné země, proč nehlučně a teskně zapadal do noci, která svírala tvé plémě?
+# text = A prapor, který by si’s viset přál, vlát v triumfu den k slávě rodné země, proč nehlučně a teskně zapadal do noci, která svírala tvé plémě?
 1	A	a	CCONJ	J^-------------	_	24	discourse	_	_
 2	prapor	prapor	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	24	nsubj	_	SpaceAfter=No
 3	,	,	PUNCT	Z:-------------	_	9	punct	_	_
 4	který	který	DET	P4IS4----------	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	9	obj	_	_
 5	by	být	AUX	Vc-------------	Aspect=Imp|Mood=Cnd|Number=Sing|Person=2|VerbForm=Fin	9	aux	_	_
+6-7	si’s	_	_	_	_	_	_	_	_
 6	jsi	být	AUX	P7-X3----------	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	9	aux	_	_
 7	si	si	PRON	P7-X3----------	Case=Dat|PronType=Prs|Reflex=Yes|Variant=Short	9	obl:arg	_	_
 8	viset	viset	VERB	Vf--------A----	Aspect=Imp|Polarity=Pos|VerbForm=Inf	9	xcomp	_	_
