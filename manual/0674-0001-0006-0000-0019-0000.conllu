@@ -31,19 +31,21 @@
 8	.	.	PUNCT	Z:-------------	_	7	punct	_	_
 
 # sent_id = 0674-0001-0006-0000-0019-0000_4
-# text = Pocestný uprostřed síně sedí, Poslouchaje naň čeládka hledí;
-1	Pocestný	pocestný	ADJ	AAMS1----1A----	Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	4	nsubj	_	_
-2	uprostřed	uprostřed	ADP	NNNP2-----A----	AdpType=Prep|Case=Gen	3	case	_	_
-3	síně	síň	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	4	obl	_	_
-4	sedí	sedět	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
-5	,	,	PUNCT	Z:-------------	_	10	punct	_	_
-6	Poslouchaje	poslouchat	VERB	VeYS------A----	Aspect=Imp|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Conv|Voice=Act	10	xcomp	_	_
-7-8	naň	_	_	_	_	_	_	_	_
-7	na	na	ADP	TT-------------	AdpType=Prep|Case=Acc	8	case	_	_
-8	něj	on	PRON	TT-------------	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|PrepCase=Pre|PronType=Prs	10	obl:arg	_	_
-9	čeládka	čeládka	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	10	nsubj	_	_
-10	hledí	hledět	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	parataxis	_	SpaceAfter=No
-11	;	;	PUNCT	Z:-------------	_	4	punct	_	_
+# text = Pocestný u prostřed síně sedí, Poslouchaje naň čeládka hledí;
+1	Pocestný	pocestný	ADJ	AAMS1----1A----	Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	5	nsubj	_	_
+2-3	u prostřed	-	-	-	-	-	-	-
+2	u	u	ADP	RR--2----------	AdpType=Prep|Case=Gen	3	case	_	_
+3	prostřed	prostřed	ADP	NNNP2-----A----	AdpType=Prep|Case=Gen	4	case	_	_
+4	síně	síň	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	5	obl	_	_
+5	sedí	sedět	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	Z:-------------	_	11	punct	_	_
+7	Poslouchaje	poslouchat	VERB	VeYS------A----	Aspect=Imp|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Conv|Voice=Act	11	xcomp	_	_
+8-9	naň	_	_	_	_	_	_	_	_
+8	na	na	ADP	TT-------------	AdpType=Prep|Case=Acc	9	case	_	_
+9	něj	on	PRON	TT-------------	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|PrepCase=Pre|PronType=Prs	11	obl:arg	_	_
+10	čeládka	čeládka	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	11	nsubj	_	_
+11	hledí	hledět	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	parataxis	_	SpaceAfter=No
+12	;	;	PUNCT	Z:-------------	_	5	punct	_	_
 
 # sent_id = 0674-0001-0006-0000-0019-0000_5
 # text = Mluvil takto však i tak též cítil: „Hoiho, slyšte!

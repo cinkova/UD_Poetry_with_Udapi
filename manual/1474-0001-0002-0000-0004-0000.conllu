@@ -1,6 +1,6 @@
 # newdoc id = 1474-0001-0002-0000-0004-0000
 # sent_id = 1474-0001-0002-0000-0004-0000_1
-# text = Jdou dávné vzpomínky, sny dávno vysněné,  jak nebem oblaka, jichž nelze uchvátit, k nimž možno vzpínati jen ruce vztažené, k nimž na perutích pták jen vznést se může, cit.
+# text = Jdou dávné vzpomínky, sny dávno vysněné, jak nebem oblaka, jichž nelze uchvátit, k nimž možno vzpínati jen ruce vztažené, k nimž na perutích pták jen vznést se může, cit.
 1	Jdou	jít	VERB	VB-P---3P-AA---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpacesBefore=\s
 2	dávné	dávný	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	3	amod	_	_
 3	vzpomínky	vzpomínka	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos	1	nsubj	_	SpaceAfter=No
