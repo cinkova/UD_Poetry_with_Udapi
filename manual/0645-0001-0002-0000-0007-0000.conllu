@@ -42,7 +42,7 @@
 39	.	.	PUNCT	Z:-------------	_	7	punct	_	_
 
 # sent_id = 0645-0001-0002-0000-0007-0000_2
-# text = Zrádný břeh jim z mlžných skrání trhá závoj znenadání, než se v pěnu rozplynou.
+# text = Zrádný břeh jim z mlžných skrání trhá závoj z nenadání, než se v pěnu rozplynou.
 1	Zrádný	zrádný	ADJ	AAIS1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	2	amod	_	_
 2	břeh	břeh	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	7	nsubj	_	_
 3	jim	on	PRON	PPXP3--3-------	Case=Dat|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	7	obl	_	_
@@ -51,14 +51,15 @@
 6	skrání	skráň	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	7	obl	_	_
 7	trhá	trhat	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 8	závoj	závoj	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	7	obj	_	_
-9	znenadání	znenadání	ADV	NNNS2-----N----	_	7	advmod	_	SpaceAfter=No
-10	,	,	PUNCT	Z:-------------	_	15	punct	_	_
-11	než	než	SCONJ	J,-------------	_	15	mark	_	_
-12	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	15	expl:pv	_	_
-13	v	v	ADP	RR--4----------	AdpType=Prep|Case=Acc	14	case	_	_
-14	pěnu	pěna	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	15	obl	_	_
-15	rozplynou	rozplynout	VERB	VB-P---3P-AA---	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	SpaceAfter=No
-16	.	.	PUNCT	Z:-------------	_	7	punct	_	_
+9	z	z	ADP	RR--2----------	AdpType=Prep|Case=Gen	6	case	_	_
+10	znenadání	znenadání	ADV	NNNS2-----N----	_	7	advmod	_	SpaceAfter=No
+11	,	,	PUNCT	Z:-------------	_	16	punct	_	_
+12	než	než	SCONJ	J,-------------	_	16	mark	_	_
+13	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	16	expl:pv	_	_
+14	v	v	ADP	RR--4----------	AdpType=Prep|Case=Acc	15	case	_	_
+15	pěnu	pěna	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	16	obl	_	_
+16	rozplynou	rozplynout	VERB	VB-P---3P-AA---	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	SpaceAfter=No
+17	.	.	PUNCT	Z:-------------	_	7	punct	_	_
 
 # sent_id = 0645-0001-0002-0000-0007-0000_3
 # text = Zlatých rybek četa hravá víří v tůni bezedné, všude ples a bujná vřava, moře líc tak usměvavá, kam jen oko dohledne; pod hladinou světelkuje, kadeř medus řasnatá, v bahně krab se těžký snuje a na korál zavěšuje polyp rámě svalnatá.

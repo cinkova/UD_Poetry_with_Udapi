@@ -27,7 +27,7 @@
 24	.	.	PUNCT	Z:-------------	_	9	punct	_	_
 
 # sent_id = 0078-0001-0000-0000-0028-0000_2
-# text = Bijem se vpravo, bijem vlevo, až jiskří našich mečů zář: pro rodné slovo, mluvu matky, pro víru, pravdu, pro oltář.
+# text = Bijem se v pravo, bijem v levo, až jiskří našich mečů zář: pro rodné slovo, mluvu matky, pro víru, pravdu, pro oltář.
 1	Bijem	bít	VERB	VB-S---1P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	1	expl:pv	_	_
 3	v	v	ADP	NNNS4-----A----	AdpType=Prep|Case=Loc	4	case	_	SpaceAfter=No
