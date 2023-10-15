@@ -7,7 +7,7 @@
 
 # sent_id = 0581-0001-0001-0000-0034-0000_2
 # text = Došels nahoru a kolem hory.
-1-2 Došels
+1-2	Došels	_	_	_	_	_	_	_	_
 1	Došel	dojít	VERB	VpYS---XR-AA---	Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
 2	jsi	být	AUX	VpYS---XR-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	aux	_	_
 3	nahoru	nahoru	ADV	Db-------------	_	1	advmod	_	_
