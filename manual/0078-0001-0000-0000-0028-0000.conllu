@@ -30,14 +30,12 @@
 # text = Bijem se v pravo, bijem v levo, až jiskří našich mečů zář: pro rodné slovo, mluvu matky, pro víru, pravdu, pro oltář.
 1	Bijem	bít	VERB	VB-S---1P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	1	expl:pv	_	_
-3-4	vpravo	_	_	_	_	_	_	_	SpaceAfter=No
 3	v	v	ADP	NNNS4-----A----	AdpType=Prep|Case=Loc	4	case	_	_
-4	pravo	pravo	NOUN	NNNS4-----A----	Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos	1	obl	_	_
+4	pravo	pravo	NOUN	NNNS4-----A----	Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos	1	obl	_	SpaceAfter=No
 5	,	,	PUNCT	Z:-------------	_	6	punct	_	_
 6	bijem	bít	VERB	VB-S---1P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
-7-8	vlevo	_	_	_	_	_	_	_	SpaceAfter=No
 7	v	v	ADP	NNNS4-----A----	AdpType=Prep|Case=Loc	8	case	_	_
-8	levo	levo	NOUN	NNNS4-----A----	Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos	6	obl	_	_
+8	levo	levo	NOUN	NNNS4-----A----	Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos	6	obl	_	SpaceAfter=No
 9	,	,	PUNCT	Z:-------------	_	11	punct	_	_
 10	až	až	SCONJ	J,-------------	_	11	mark	_	_
 11	jiskří	jiskřit	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	_
