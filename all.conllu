@@ -21,11 +21,11 @@
 18	obletují	obletovat	VERB	VB-P---3P-AA---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	11	conj	_	SpaceAfter=No
 19	.	.	PUNCT	Z:-------------	_	1	punct	_	_
 
+# sent_id = 0067-0001-0001-0000-0007-0000_1/auto
+# text = Zakrakoce v hradě vrána, sóvy z křeku následují, povylétla vrána sobě, a sóvy ji obletují.
 # generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
 # udpipe_model = czech-pdt-ud-2.12-230717
 # udpipe_model_licence = CC BY-NC-SA
-# sent_id = 0067-0001-0001-0000-0007-0000_1/auto
-# text = Zakrakoce v hradě vrána, sóvy z křeku následují, povylétla vrána sobě, a sóvy ji obletují.
 1	Zakrakoce	zakrakoce	ADV	Db-------------	_	0	root	_	_
 2	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	3	case	_	_
 3	hradě	hrad	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	1	conj	_	_
@@ -494,11 +494,11 @@
 23	saň	saň	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	15	parataxis	_	SpaceAfter=No
 24	.	.	PUNCT	Z:-------------	_	9	punct	_	_
 
+# sent_id = 0078-0001-0000-0000-0028-0000_1/auto
+# text = Už dvacet let zde bratr k bratru se tulíme a tisknem dlaň, vždy vystaveni bouřím větrů, před námi stále divá saň.
 # generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
 # udpipe_model = czech-pdt-ud-2.12-230717
 # udpipe_model_licence = CC BY-NC-SA
-# sent_id = 0078-0001-0000-0000-0028-0000_1/auto
-# text = Už dvacet let zde bratr k bratru se tulíme a tisknem dlaň, vždy vystaveni bouřím větrů, před námi stále divá saň.
 1	Už	už	ADV	Db-------------	_	2	advmod:emph	_	_
 2	dvacet	dvacet	NUM	Cl-S4----------	Case=Acc|Number=Sing|NumForm=Word|NumType=Card|NumValue=1,2,3	3	nummod:gov	_	_
 3	let	léta	NOUN	NNNP2-----A----	Case=Gen|Gender=Neut|Number=Plur|Polarity=Pos	9	obl	_	_
@@ -835,11 +835,11 @@
 13	neumím	umět	VERB	VB-S---1P-NA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	SpaceAfter=No
 14	.	.	PUNCT	Z:-------------	_	7	punct	_	_
 
+# sent_id = 0083-0001-0001-0000-0015-0000_1/auto
+# text = Že nejsem čist, to dobře vím, leč bez hříchu žít neumím.
 # generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
 # udpipe_model = czech-pdt-ud-2.12-230717
 # udpipe_model_licence = CC BY-NC-SA
-# sent_id = 0083-0001-0001-0000-0015-0000_1/auto
-# text = Že nejsem čist, to dobře vím, leč bez hříchu žít neumím.
 1	Že	že	SCONJ	J,-------------	_	3	mark	_	_
 2	nejsem	být	AUX	VB-S---1P-NAI--	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
 3	čist	čistý	ADJ	ACYS------A----	Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short	5	acl	_	SpaceAfter=No
@@ -1332,11 +1332,11 @@
 30	Thule	Thule	PROPN	NNNXX-----A----	Case=Nom|Gender=Fem|NameType=Geo|Number=Sing|Polarity=Pos	28	obl	_	SpaceAfter=No
 31	?	?	PUNCT	Z:-------------	_	2	punct	_	_
 
+# sent_id = 0130-0001-0002-0000-0031-0000_1/auto
+# text = Proč musil’s umřít v onom soumraku, jakou to vůlí zlomena tvá vůle, že’s odešel v den strašných přízraků, kdy příští bylo mnohem dál než Thule?
 # generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
 # udpipe_model = czech-pdt-ud-2.12-230717
 # udpipe_model_licence = CC BY-NC-SA
-# sent_id = 0130-0001-0002-0000-0031-0000_1/auto
-# text = Proč musil’s umřít v onom soumraku, jakou to vůlí zlomena tvá vůle, že’s odešel v den strašných přízraků, kdy příští bylo mnohem dál než Thule?
 1	Proč	proč	ADV	Db-------------	PronType=Int,Rel	2	advmod	_	_
 2	musil’s	musil’s	VERB	VpYS----R-AAI--	Aspect=Imp|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
 3	umřít	umřít	VERB	Vf--------A-P--	Aspect=Perf|Polarity=Pos|VerbForm=Inf	2	xcomp	_	_
@@ -1678,11 +1678,11 @@
 16	Baudelaira	Baudelaire	PROPN	NNMS4-----A----	Animacy=Anim|Case=Acc|Gender=Masc|NameType=Sur|Number=Sing|Polarity=Pos	15	obj	_	SpaceAfter=No
 17	.	.	PUNCT	Z:-------------	_	14	punct	_	_
 
+# sent_id = 0132-0001-0001-0000-0011-0000_1/auto
+# text = Právě v roce 80 – pamatuji to jak včera – literáti ve Francii počali číst Baudelaira.
 # generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
 # udpipe_model = czech-pdt-ud-2.12-230717
 # udpipe_model_licence = CC BY-NC-SA
-# sent_id = 0132-0001-0001-0000-0011-0000_1/auto
-# text = Právě v roce 80 – pamatuji to jak včera – literáti ve Francii počali číst Baudelaira.
 1	Právě	právě	ADV	Db-------------	_	3	advmod:emph	_	_
 2	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	3	case	_	_
 3	roce	rok	NOUN	NNIS6-----A---1	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	14	obl	_	_
@@ -2115,11 +2115,11 @@
 15	bohy	bůh	NOUN	NNMP4-----A----	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	14	obj	_	SpaceAfter=No
 16	.	.	PUNCT	Z:-------------	_	14	punct	_	_
 
+# sent_id = 0215-0001-0001-0000-0016-0000_1/auto
+# text = Co z chaosu vstal svět náš přeubohý, dle představ svých si člověk tvoří bohy.
 # generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
 # udpipe_model = czech-pdt-ud-2.12-230717
 # udpipe_model_licence = CC BY-NC-SA
-# sent_id = 0215-0001-0001-0000-0016-0000_1/auto
-# text = Co z chaosu vstal svět náš přeubohý, dle představ svých si člověk tvoří bohy.
 1	Co	co	SCONJ	J,-------------	_	4	mark	_	_
 2	z	z	ADP	RR--2----------	AdpType=Prep|Case=Gen	3	case	_	_
 3	chaosu	chaos	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	4	obl	_	_
@@ -2738,11 +2738,11 @@
 25	sboru	sbor	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	22	nmod	_	SpaceAfter=No
 26	.	.	PUNCT	Z:-------------	_	1	punct	_	_
 
+# sent_id = 0243-0001-0002-0000-0034-0000_1/auto
+# text = Měl jsem dítě dcerku zlatou, krásnou jako zoru, s růžným líčkem, s rusou hlavou, jako kněžku usměvavou vil bělostných čarovného sboru.
 # generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
 # udpipe_model = czech-pdt-ud-2.12-230717
 # udpipe_model_licence = CC BY-NC-SA
-# sent_id = 0243-0001-0002-0000-0034-0000_1/auto
-# text = Měl jsem dítě dcerku zlatou, krásnou jako zoru, s růžným líčkem, s rusou hlavou, jako kněžku usměvavou vil bělostných čarovného sboru.
 1	Měl	mít	VERB	VpYS----R-AAI--	Aspect=Imp|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
 2	jsem	být	AUX	VB-S---1P-AAI--	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	aux	_	_
 3	dítě	dítě	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	1	obj	_	_
@@ -3039,11 +3039,11 @@
 8	světici	světice	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	7	obj	_	SpaceAfter=No
 9	.	.	PUNCT	Z:-------------	_	7	punct	_	_
 
+# sent_id = 0362-0001-0003-0000-0011-0000_1/auto
+# text = V rudých kdys vlasů záplavě jsem viděl světici.
 # generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
 # udpipe_model = czech-pdt-ud-2.12-230717
 # udpipe_model_licence = CC BY-NC-SA
-# sent_id = 0362-0001-0003-0000-0011-0000_1/auto
-# text = V rudých kdys vlasů záplavě jsem viděl světici.
 1	V	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	3	case	_	_
 2	rudých	rudý	ADJ	AAIP6----1A----	Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	3	amod	_	_
 3	kdys	kdys	ADV	Db-------------	PronType=Int,Rel	7	advmod	_	_
@@ -3459,7 +3459,7 @@
 5	kde	kde	ADV	Db-------------	PronType=Rel	14	advmod	_	_
 6	ztuhlá	ztuhlý	ADJ	AAFS1----1A----	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	8	amod	_	_
 7	světic	světice	NOUN	NNFS1-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	8	nmod	_	_
-8	ctnost	ctnost	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	14	orphan	_	_
+8	ctnost	ctnost	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	14	nsubj	_	_
 9	V	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	11	case	_	_
 10	škrobených	škrobený	ADJ	AAIP6----1A----	Animacy=Inan|Aspect=Imp|Case=Loc|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	11	amod	_	_
 11	límcích	límec	NOUN	NNIP6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur|Polarity=Pos	14	obl	_	_
@@ -3980,11 +3980,11 @@
 22	ulicemi	ulice	NOUN	NNFP7-----A----	Case=Ins|Gender=Fem|Number=Plur|Polarity=Pos	20	conj	_	SpaceAfter=No
 23	.	.	PUNCT	Z:-------------	_	1	punct	_	_
 
+# sent_id = 0387-0001-0000-0000-0028-0000_1/auto
+# text = Zavedla jej vzdušná cesta s lučin, po nichž stýská se mi, a teď bloudí spletí města, náměstími, ulicemi.
 # generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
 # udpipe_model = czech-pdt-ud-2.12-230717
 # udpipe_model_licence = CC BY-NC-SA
-# sent_id = 0387-0001-0000-0000-0028-0000_1/auto
-# text = Zavedla jej vzdušná cesta s lučin, po nichž stýská se mi, a teď bloudí spletí města, náměstími, ulicemi.
 1	Zavedla	zavést	VERB	VpQW----R-AAP--	Aspect=Perf|Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
 2	jej	on	PRON	PEZS4--3------2	Case=Acc|Gender=Masc,Neut|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	1	obj	_	_
 3	vzdušná	vzdušný	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	4	amod	_	_
@@ -4318,11 +4318,11 @@
 18	slíben	slíbený	ADJ	VsYS---XX-AP---	Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	11	conj	_	SpaceAfter=No
 19	.	.	PUNCT	Z:-------------	_	6	punct	_	_
 
+# sent_id = 0576-0001-0000-0000-0023-0002_1/auto
+# text = A brzy potom to se přihodilo: Vzbouřené kohorty se prohlásily pro Othona, neb donativ jim slíben.
 # generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
 # udpipe_model = czech-pdt-ud-2.12-230717
 # udpipe_model_licence = CC BY-NC-SA
-# sent_id = 0576-0001-0000-0000-0023-0002_1/auto
-# text = A brzy potom to se přihodilo: Vzbouřené kohorty se prohlásily pro Othona, neb donativ jim slíben.
 1	A	a	CCONJ	J^-------------	_	6	cc	_	_
 2	brzy	brzy	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	6	advmod	_	_
 3	potom	potom	ADV	Db-------------	_	6	advmod	_	_
@@ -4630,11 +4630,11 @@
 2	odpoledne	odpoledne	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	1	nsubj	_	SpaceAfter=No
 3	.	.	PUNCT	Z:-------------	_	1	punct	_	_
 
+# sent_id = 0581-0001-0001-0000-0034-0000_1/auto
+# text = Je odpoledne.
 # generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
 # udpipe_model = czech-pdt-ud-2.12-230717
 # udpipe_model_licence = CC BY-NC-SA
-# sent_id = 0581-0001-0001-0000-0034-0000_1/auto
-# text = Je odpoledne.
 1	Je	být	AUX	VB-S---3P-AAI--	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	odpoledne	odpoledne	ADV	Db-------------	_	1	advmod	_	SpaceAfter=No
 3	.	.	PUNCT	Z:-------------	_	1	punct	_	_
@@ -4955,11 +4955,11 @@
 3	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	2	expl:pv	_	SpaceAfter=No
 4	.	.	PUNCT	Z:-------------	_	2	punct	_	_
 
+# sent_id = 0591-0001-0002-0000-0002-0003_1/auto
+# text = Dnes vyslovil se.
 # generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
 # udpipe_model = czech-pdt-ud-2.12-230717
 # udpipe_model_licence = CC BY-NC-SA
-# sent_id = 0591-0001-0002-0000-0002-0003_1/auto
-# text = Dnes vyslovil se.
 1	Dnes	dnes	ADV	Db-------------	_	2	advmod	_	_
 2	vyslovil	vyslovit	VERB	VpYS----R-AAP--	Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
 3	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	2	expl:pv	_	SpaceAfter=No
@@ -5571,11 +5571,11 @@
 32	mlha	mlha	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	29	conj	_	SpaceAfter=No
 33	.	.	PUNCT	Z:-------------	_	5	punct	_	_
 
+# sent_id = 0604-0001-0000-0000-0004-0000_1/auto
+# text = Povaha naše záhadně je stkána: Dvé disonančních, rušících se tonů, jež zazní z každé stránky našich dějin, z našeho šumí národního žití: francouzská vznětlivost a ruská mlha.
 # generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
 # udpipe_model = czech-pdt-ud-2.12-230717
 # udpipe_model_licence = CC BY-NC-SA
-# sent_id = 0604-0001-0000-0000-0004-0000_1/auto
-# text = Povaha naše záhadně je stkána: Dvé disonančních, rušících se tonů, jež zazní z každé stránky našich dějin, z našeho šumí národního žití: francouzská vznětlivost a ruská mlha.
 1	Povaha	povaha	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	5	nsubj	_	_
 2	naše	náš	DET	PSHS1-P1-------	Case=Nom|Gender=Fem,Neut|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	1	det	_	_
 3	záhadně	záhadně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	5	advmod	_	_
@@ -6039,11 +6039,11 @@
 38	hlubinou	hlubina	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	35	nmod	_	SpaceAfter=No
 39	.	.	PUNCT	Z:-------------	_	7	punct	_	_
 
+# sent_id = 0645-0001-0002-0000-0007-0000_1/auto
+# text = Zas přede mnou tajůplný blankyt moře rozepjat, jak rusalky, hybké vlny oblečeny v bílý šat, ňádra hebká, obnažená, tisknou k sobě roztoužená a v divokém reji spolu tančí bujnou carmagnolu nad bezednou hlubinou.
 # generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
 # udpipe_model = czech-pdt-ud-2.12-230717
 # udpipe_model_licence = CC BY-NC-SA
-# sent_id = 0645-0001-0002-0000-0007-0000_1/auto
-# text = Zas přede mnou tajůplný blankyt moře rozepjat, jak rusalky, hybké vlny oblečeny v bílý šat, ňádra hebká, obnažená, tisknou k sobě roztoužená a v divokém reji spolu tančí bujnou carmagnolu nad bezednou hlubinou.
 1	Zas	zas	ADV	Db-------------	_	0	root	_	_
 2	přede	před	ADP	RV--7----------	AdpType=Voc|Case=Ins	3	case	_	_
 3	mnou	já	PRON	PP-S7--1-------	Case=Ins|Number=Sing|Person=1|PronType=Prs	7	obl	_	_
@@ -6457,11 +6457,11 @@
 2	večer	večer	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	Z:-------------	_	2	punct	_	_
 
+# sent_id = 0674-0001-0006-0000-0019-0000_1/auto
+# text = Pozdní večer.
 # generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
 # udpipe_model = czech-pdt-ud-2.12-230717
 # udpipe_model_licence = CC BY-NC-SA
-# sent_id = 0674-0001-0006-0000-0019-0000_1/auto
-# text = Pozdní večer.
 1	Pozdní	pozdní	ADJ	AAIS1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	2	amod	_	_
 2	večer	večer	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	Z:-------------	_	2	punct	_	_
@@ -7031,11 +7031,11 @@
 19	kov	kov	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	13	obj	_	SpaceAfter=No
 20	.	.	PUNCT	Z:-------------	_	3	punct	_	_
 
+# sent_id = 0705-0004-0000-0000-0003-0000_1/auto
+# text = Ve tmách hoří divoké máky a krvavě zardělý měsíc v nesmírném tichu koupá chvílemi v zálivech mračen svůj kov.
 # generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
 # udpipe_model = czech-pdt-ud-2.12-230717
 # udpipe_model_licence = CC BY-NC-SA
-# sent_id = 0705-0004-0000-0000-0003-0000_1/auto
-# text = Ve tmách hoří divoké máky a krvavě zardělý měsíc v nesmírném tichu koupá chvílemi v zálivech mračen svůj kov.
 1	Ve	v	ADP	RV--6----------	AdpType=Voc|Case=Loc	2	case	_	_
 2	tmách	tma	NOUN	NNFP6-----A----	Case=Loc|Gender=Fem|Number=Plur|Polarity=Pos	3	obl	_	_
 3	hoří	hořet	VERB	VB-P---3P-AAI--	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -8146,11 +8146,11 @@
 14	proudu	proud	NOUN	NNIS3-----A----	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos	10	obl:arg	_	SpaceAfter=No
 15	.	.	PUNCT	Z:-------------	_	1	punct	_	_
 
+# sent_id = 0715-0001-0000-0000-0022-0000_1/auto
+# text = Rozhučela se Svitava kalná a rozvodněná, že břehy nestačí nikterak špinavě hnědému proudu.
 # generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
 # udpipe_model = czech-pdt-ud-2.12-230717
 # udpipe_model_licence = CC BY-NC-SA
-# sent_id = 0715-0001-0000-0000-0022-0000_1/auto
-# text = Rozhučela se Svitava kalná a rozvodněná, že břehy nestačí nikterak špinavě hnědému proudu.
 1	Rozhučela	rozhučet	VERB	VpQW----R-AAP--	Aspect=Perf|Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
 2	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	1	expl:pv	_	_
 3	Svitava	Svitava	PROPN	NNFS1-----A----	Case=Nom|Gender=Fem|NameType=Geo|Number=Sing|Polarity=Pos	1	nsubj	_	_
@@ -8487,11 +8487,11 @@
 30	jiný	jiný	ADJ	AAMS1----1A----	Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	29	amod	_	SpaceAfter=No
 31	.	.	PUNCT	Z:-------------	_	2	punct	_	_
 
+# sent_id = 0883-0001-0002-0000-0009-0000_1/auto
+# text = Klidně spi v té hrstce hlíny, samotinká spi tam tiše, s večerními jenom stíny, s měsícem, když svítí s výše, když už nebdí žádný jiný.
 # generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
 # udpipe_model = czech-pdt-ud-2.12-230717
 # udpipe_model_licence = CC BY-NC-SA
-# sent_id = 0883-0001-0002-0000-0009-0000_1/auto
-# text = Klidně spi v té hrstce hlíny, samotinká spi tam tiše, s večerními jenom stíny, s měsícem, když svítí s výše, když už nebdí žádný jiný.
 1	Klidně	klidně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	2	advmod	_	_
 2	spi	spit	VERB	Vi-S---2--A-P--	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	0	root	_	_
 3	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	5	case	_	_
@@ -8826,11 +8826,11 @@
 13	podzim	podzim	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	10	obl	_	SpaceAfter=No
 14	.	.	PUNCT	Z:-------------	_	3	punct	_	_
 
+# sent_id = 0889-0006-0003-0000-0036-0000_1/auto
+# text = MÉ jaro přešlo a léto s ním a vítr duje už na podzim.
 # generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
 # udpipe_model = czech-pdt-ud-2.12-230717
 # udpipe_model_licence = CC BY-NC-SA
-# sent_id = 0889-0006-0003-0000-0036-0000_1/auto
-# text = MÉ jaro přešlo a léto s ním a vítr duje už na podzim.
 1	MÉ	můj	DET	PSNS1-S1------1	Case=Nom|Gender=Neut|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
 2	jaro	jaro	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	3	nsubj	_	_
 3	přešlo	přejít	VERB	VpNS----R-AAP--	Aspect=Perf|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
@@ -9150,11 +9150,11 @@
 13	hráli	hrát	VERB	VpMP---XR-AA---	Animacy=Anim|Aspect=Imp|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	6	conj	_	SpaceAfter=No
 14	.	.	PUNCT	Z:-------------	_	6	punct	_	_
 
+# sent_id = 0956-0002-0000-0000-0014-0000_1/auto
+# text = U babylonských vod jsme truchle sedávali a temný doprovod k úderům srdce hráli.
 # generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
 # udpipe_model = czech-pdt-ud-2.12-230717
 # udpipe_model_licence = CC BY-NC-SA
-# sent_id = 0956-0002-0000-0000-0014-0000_1/auto
-# text = U babylonských vod jsme truchle sedávali a temný doprovod k úderům srdce hráli.
 1	U	u	ADP	RR--2----------	AdpType=Prep|Case=Gen	3	case	_	_
 2	babylonských	babylonský	ADJ	AAFP2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	3	amod	_	_
 3	vod	voda	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	6	obl	_	_
@@ -9504,11 +9504,11 @@
 29	osamělý	osamělý	ADJ	AAMS1----1A----	Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	18	advcl	_	SpaceAfter=No
 30	.	.	PUNCT	Z:-------------	_	18	punct	_	_
 
+# sent_id = 0973-0001-0000-0000-0004-0000_1/auto
+# text = Pod horou mou rodnou, na níž leskne chrám se v modrou dál, ač neumělý, klečel s ženou muž – v té slavněteskné vůkol tiši lesní osamělý.
 # generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
 # udpipe_model = czech-pdt-ud-2.12-230717
 # udpipe_model_licence = CC BY-NC-SA
-# sent_id = 0973-0001-0000-0000-0004-0000_1/auto
-# text = Pod horou mou rodnou, na níž leskne chrám se v modrou dál, ač neumělý, klečel s ženou muž – v té slavněteskné vůkol tiši lesní osamělý.
 1	Pod	pod	ADP	RR--7----------	AdpType=Prep|Case=Ins	2	case	_	_
 2	horou	hora	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	18	obl	_	_
 3	mou	můj	DET	PSFS7-S1------1	Case=Ins|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
@@ -10562,11 +10562,11 @@
 44	!	!	PUNCT	Z:-------------	_	3	punct	_	SpaceAfter=No
 45	“	"	PUNCT	Z:-------------	_	3	punct	_	_
 
+# sent_id = 1010-0001-0001-0000-0001-0000_1/auto
+# text = Dnů čaloun rozvíjí se přede mnou, sám do něho tkám pestré arabesky, myšlének bájné květy, cit a stesky a touhu k světlu věčnou, tajemnou – a co tak různobarvý temně svítí, dím k sobě: „Ejhle žití!
 # generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
 # udpipe_model = czech-pdt-ud-2.12-230717
 # udpipe_model_licence = CC BY-NC-SA
-# sent_id = 1010-0001-0001-0000-0001-0000_1/auto
-# text = Dnů čaloun rozvíjí se přede mnou, sám do něho tkám pestré arabesky, myšlének bájné květy, cit a stesky a touhu k světlu věčnou, tajemnou – a co tak různobarvý temně svítí, dím k sobě: „Ejhle žití!
 1	Dnů	den	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	3	nsubj	_	_
 2	čaloun	čaloun	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	3	nsubj	_	_
 3	rozvíjí	rozvíjet	VERB	VB-S---3P-AAI--	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -10951,11 +10951,11 @@
 122	otevřela	otevřít	VERB	VpQW---XR-AA---	Aspect=Perf|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	106	parataxis	_	SpaceAfter=No
 123	.	.	PUNCT	Z:-------------	_	106	punct	_	_
 
+# sent_id = 1042-0001-0007-0000-0007-0000_1/auto
+# text = Dlaň, vaše dědy od Jordanských břehů jež vedla k břehům Vltavy a Labe v zlém dešti urážek a v důtek šlehu, z vás kdysi velkých udělala slabé, ta ruka drtící, jak žernov těžká, ta trestající ruka Hospodina, jež pálí rýdlem Kaina tam, kde mešká, by lkala lítost, kde se smála vina, ta ruka, jež nechala věky dštíti Egyptské rány na váš národ bídný, dnes ještě která jiskru záště nítí, že otráven je den váš i sen klidný;
 # generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
 # udpipe_model = czech-pdt-ud-2.12-230717
 # udpipe_model_licence = CC BY-NC-SA
-# sent_id = 1042-0001-0007-0000-0007-0000_1/auto
-# text = Dlaň, vaše dědy od Jordanských břehů jež vedla k břehům Vltavy a Labe v zlém dešti urážek a v důtek šlehu, z vás kdysi velkých udělala slabé, ta ruka drtící, jak žernov těžká, ta trestající ruka Hospodina, jež pálí rýdlem Kaina tam, kde mešká, by lkala lítost, kde se smála vina, ta ruka, jež nechala věky dštíti Egyptské rány na váš národ bídný, dnes ještě která jiskru záště nítí, že otráven je den váš i sen klidný;
 1	Dlaň	dlaň	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	28	nsubj	_	SpaceAfter=No
 2	,	,	PUNCT	Z:-------------	_	4	punct	_	_
 3	vaše	váš	DET	PSXP4-P2-------	Case=Acc|Number=Plur|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs	4	det	_	_
@@ -11701,11 +11701,11 @@
 24	stáh’	stáhnout	VERB	VpYS---XR-AA---	Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Style=Coll|Tense=Past|VerbForm=Part|Voice=Act	9	conj	_	SpaceAfter=No
 25	.	.	PUNCT	Z:-------------	_	2	punct	_	_
 
+# sent_id = 1066-0001-0002-0000-0005-0000_1/auto
+# text = Zas vidím jej, ve božské kráse jak vzpjal se veliký a nah a odbojníku v bleskném jase jak rázem kůži s těla stáh’.
 # generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
 # udpipe_model = czech-pdt-ud-2.12-230717
 # udpipe_model_licence = CC BY-NC-SA
-# sent_id = 1066-0001-0002-0000-0005-0000_1/auto
-# text = Zas vidím jej, ve božské kráse jak vzpjal se veliký a nah a odbojníku v bleskném jase jak rázem kůži s těla stáh’.
 1	Zas	zas	ADV	Db-------------	_	2	advmod	_	_
 2	vidím	vidět	VERB	VB-S---1P-AAI--	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	jej	on	PRON	PEZS4--3------2	Case=Acc|Gender=Masc,Neut|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	2	obj	_	SpaceAfter=No
@@ -12116,11 +12116,11 @@
 5	bledá	bledý	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	0	root	_	SpaceAfter=No
 6	!	!	PUNCT	Z:-------------	_	5	punct	_	_
 
+# sent_id = 1191-0001-0003-0000-0002-0000_1/auto
+# text = Hle, je tak bledá!
 # generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
 # udpipe_model = czech-pdt-ud-2.12-230717
 # udpipe_model_licence = CC BY-NC-SA
-# sent_id = 1191-0001-0003-0000-0002-0000_1/auto
-# text = Hle, je tak bledá!
 1	Hle	hle	INTJ	II-------------	_	5	dep	_	SpaceAfter=No
 2	,	,	PUNCT	Z:-------------	_	5	punct	_	_
 3	je	být	AUX	VB-S---3P-AAI--	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	_
@@ -12927,11 +12927,11 @@
 10	anjelské	andělský	ADJ	AAFS2----1A----	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	9	amod	_	SpaceAfter=No
 11	!	!	PUNCT	Z:-------------	_	1	punct	_	_
 
+# sent_id = 1324-0001-0000-0000-0001-0000_1/auto
+# text = Plyň, ó duše, do věčnosti Mezy kůry anjelské!
 # generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
 # udpipe_model = czech-pdt-ud-2.12-230717
 # udpipe_model_licence = CC BY-NC-SA
-# sent_id = 1324-0001-0000-0000-0001-0000_1/auto
-# text = Plyň, ó duše, do věčnosti Mezy kůry anjelské!
 1	Plyň	plyň	VERB	Vi-S---2--A-I--	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	0	root	_	SpaceAfter=No
 2	,	,	PUNCT	Z:-------------	_	1	punct	_	_
 3	ó	ó	INTJ	II-------------	_	4	nmod	_	_
@@ -13587,11 +13587,11 @@
 35	cit	cit	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	3	appos	_	SpaceAfter=No
 36	.	.	PUNCT	Z:-------------	_	1	punct	_	_
 
+# sent_id = 1474-0001-0002-0000-0004-0000_1/auto
+# text = Jdou dávné vzpomínky, sny dávno vysněné, jak nebem oblaka, jichž nelze uchvátit, k nimž možno vzpínati jen ruce vztažené, k nimž na perutích pták jen vznést se může, cit.
 # generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
 # udpipe_model = czech-pdt-ud-2.12-230717
 # udpipe_model_licence = CC BY-NC-SA
-# sent_id = 1474-0001-0002-0000-0004-0000_1/auto
-# text = Jdou dávné vzpomínky, sny dávno vysněné, jak nebem oblaka, jichž nelze uchvátit, k nimž možno vzpínati jen ruce vztažené, k nimž na perutích pták jen vznést se může, cit.
 1	Jdou	jít	VERB	VB-P---3P-AAI--	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	dávné	dávný	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	3	amod	_	_
 3	vzpomínky	vzpomínka	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos	1	nsubj	_	SpaceAfter=No
@@ -13989,11 +13989,11 @@
 49	vylíbat	vylíbat	VERB	Vf--------A----	Aspect=Perf|Polarity=Pos|VerbForm=Inf	43	xcomp	_	SpaceAfter=No
 50	.	.	PUNCT	Z:-------------	_	11	punct	_	_
 
+# sent_id = 1646-0001-0000-0000-0047-0000_1/auto
+# text = Až dnes usneš v loktech mých, bude se ti zdát, že spíš se mnou v liliích a že tě mám rád, že se k tobě něžně shýbám, že tě hladím, že tě líbám, jak bych ti chtěl duši z těla na vždy vylíbat.
 # generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
 # udpipe_model = czech-pdt-ud-2.12-230717
 # udpipe_model_licence = CC BY-NC-SA
-# sent_id = 1646-0001-0000-0000-0047-0000_1/auto
-# text = Až dnes usneš v loktech mých, bude se ti zdát, že spíš se mnou v liliích a že tě mám rád, že se k tobě něžně shýbám, že tě hladím, že tě líbám, jak bych ti chtěl duši z těla na vždy vylíbat.
 1	Až	až	SCONJ	J,-------------	_	3	mark	_	_
 2	dnes	dnes	ADV	Db-------------	_	3	advmod	_	_
 3	usneš	usnout	VERB	VB-S---2P-AAP--	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	11	advcl	_	_
@@ -14233,11 +14233,11 @@
 7	láska	láska	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	1	appos	_	SpaceAfter=No
 8	.	.	PUNCT	Z:-------------	_	1	punct	_	SpacesAfter=\s\s
 
+# sent_id = 1692-0001-0001-0000-0058-0000_1/auto
+# text = To věčné v životě – je láska.
 # generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
 # udpipe_model = czech-pdt-ud-2.12-230717
 # udpipe_model_licence = CC BY-NC-SA
-# sent_id = 1692-0001-0001-0000-0058-0000_1/auto
-# text = To věčné v životě – je láska.
 1	To	ten	DET	PDNS1----------	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	0	root	_	_
 2	věčné	věčný	ADJ	AANS1----1A----	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	1	amod	_	_
 3	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	4	case	_	_
