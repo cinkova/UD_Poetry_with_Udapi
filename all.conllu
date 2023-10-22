@@ -5548,7 +5548,7 @@
 9	,	,	PUNCT	Z:-------------	_	10	punct	_	_
 10	rušících	rušící	ADJ	AGIP2-----A----	Animacy=Inan|Aspect=Imp|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act	8	conj	_	_
 11	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	10	expl:pv	_	_
-12	tonů	tón	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos|Style=Rare	5	appos	_	SpaceAfter=No
+12	tonů	tón	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos|Style=Rare	24	nsubj	_	SpaceAfter=No
 13	,	,	PUNCT	Z:-------------	_	15	punct	_	_
 14	jež	jenž	PRON	PJIP1----------	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PrepCase=Npr|PronType=Rel	15	nsubj	_	_
 15	zazní	zaznít	VERB	VB-P---3P-AA--1	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	12	acl:relcl	_	_
@@ -5560,7 +5560,7 @@
 21	,	,	PUNCT	Z:-------------	_	24	punct	_	_
 22	z	z	ADP	RR--2----------	AdpType=Prep|Case=Gen	24	case	_	_
 23	našeho	můj	DET	PSZS2-P1-------	Case=Gen|Gender=Neut|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	26	det	_	_
-24	šumí	šumí	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	18	conj	_	_
+24	šumí	šumí	VERB	NNNS2-----A----	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	appos	_	_
 25	národního	národní	ADJ	AANS2----1A----	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	26	amod	_	_
 26	žití	žití	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	24	nmod	_	SpaceAfter=No
 27	:	:	PUNCT	Z:-------------	_	29	punct	_	_
