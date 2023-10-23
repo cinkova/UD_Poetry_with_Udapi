@@ -6012,7 +6012,7 @@
 11	,	,	PUNCT	Z:-------------	_	13	punct	_	_
 12	hybké	hybký	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	13	amod	_	_
 13	vlny	vlna	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos	10	appos	_	_
-14	oblečeny	oblečený	ADJ	VsTP---XX-AP---	Aspect=Perf|Gender=Fem|Number=Plur|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	24	xcomp	_	_
+14	oblečeny	oblečený	ADJ	VsTP---XX-AP---	Aspect=Perf|Gender=Fem|Number=Plur|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	10	acl	_	_
 15	v	v	ADP	RR--4----------	AdpType=Prep|Case=Acc	17	case	_	_
 16	bílý	bílý	ADJ	AAIS4----1A----	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	17	amod	_	_
 17	šat	šat	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	14	obl	_	SpaceAfter=No
