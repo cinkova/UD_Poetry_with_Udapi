@@ -956,7 +956,7 @@
 # sent_id = 0083-0001-0001-0000-0015-0000_5/gold
 # text = Nesmírnou touhou kpředu štván, svědomím stále bičován.
 1	Nesmírnou	nesmírný	ADJ	AAFS7----1A----	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	2	amod	_	_
-2	touhou	touha	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	4	obl	_	_
+2	touhou	touha	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	4	obl:agent	_	_
 3	kpředu	kpředu	ADV	Db-------------	_	4	advmod	_	_
 4	štván	štvaný	ADJ	VsYS---XX-AP---	Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	Z:-------------	_	8	punct	_	_
