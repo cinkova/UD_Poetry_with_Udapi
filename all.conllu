@@ -2912,7 +2912,7 @@
 12	nezřely	zřít	VERB	VpTP---XR-NA---	Aspect=Imp|Gender=Neut|Number=Plur|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act	1	parataxis	_	_
 13	jí	on	PRON	PPFS3--3-------	Case=Dat|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	12	obl:arg	_	_
 14	oči	oko	NOUN	NNFP1-----A----	Case=Nom|Gender=Neut|Number=Plur|Polarity=Pos	12	nsubj	_	_
-15	spráhlé	spráhlý	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur|Polarity=Pos	14	xcomp	_	SpaceAfter=No
+15	spráhlé	spráhlý	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur|Polarity=Pos	14	amod	_	SpaceAfter=No
 16	,	,	PUNCT	Z:-------------	_	17	punct	_	_
 17	věděl	vědět	VERB	VpYS---XR-AA---	Aspect=Imp|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	1	parataxis	_	_
 18	jsem	být	AUX	VB-S---1P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	17	aux	_	_
