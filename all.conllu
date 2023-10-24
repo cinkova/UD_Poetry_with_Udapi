@@ -1317,7 +1317,7 @@
 16-17	že’s	_	_	_	_	_	_	_	_
 16	že	že	SCONJ	NNMS1-----A----	_	18	mark	_	_
 17	jsi	být	AUX	NNMS1-----A----	_	18	aux	_	_
-18	odešel	odejít	VERB	VpYS---XR-AA---	Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	12	acl	_	_
+18	odešel	odejít	VERB	VpYS---XR-AA---	Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	12	advmod	_	_
 19	v	v	ADP	RR--4----------	AdpType=Prep|Case=Acc	20	case	_	_
 20	den	den	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	18	obl	_	_
 21	strašných	strašný	ADJ	AAIP2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	22	amod	_	_
