@@ -200,7 +200,7 @@
 18	k	k	ADP	RR--3----------	AdpType=Prep|Case=Dat	20	case	_	_
 19	věčným	věčný	ADJ	AAFP3----1A----	Case=Dat|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	20	amod	_	_
 20	strastem	strast	NOUN	NNFP3-----A----	Case=Dat|Gender=Fem|Number=Plur|Polarity=Pos	21	obl	_	_
-21	odsouzený	odsouzený	ADJ	AAIS1----1A----	Animacy=Inan|Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	10	parataxis	_	SpaceAfter=No
+21	odsouzený	odsouzený	ADJ	AAIS1----1A----	Animacy=Inan|Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	10	conj	_	SpaceAfter=No
 22	.	.	PUNCT	Z:-------------	_	4	punct	_	_
 
 # sent_id = 0067-0001-0001-0000-0007-0000_5/auto
