@@ -6008,7 +6008,7 @@
 7	rozepjat	rozepjatý	ADJ	VsYS---XX-AP---	Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
 8	,	,	PUNCT	Z:-------------	_	24	punct	_	_
 9	jak	jak	SCONJ	J,-------------	_	24	mark	_	_
-10	rusalky	rusalka	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos	24	nsubj:pass	_	SpaceAfter=No
+10	rusalky	rusalka	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos	24	nsubj	_	SpaceAfter=No
 11	,	,	PUNCT	Z:-------------	_	13	punct	_	_
 12	hybké	hybký	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	13	amod	_	_
 13	vlny	vlna	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos	10	appos	_	_
