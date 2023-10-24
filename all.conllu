@@ -540,7 +540,7 @@
 10	až	až	SCONJ	J,-------------	_	11	mark	_	_
 11	jiskří	jiskřit	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	_
 12	našich	můj	DET	PSXP2-P1-------	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	13	det	_	_
-13	mečů	meč	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	11	nsubj	_	_
+13	mečů	meč	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	14	nmod	_	_
 14	zář	zář	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	11	nsubj	_	SpaceAfter=No
 15	:	:	PUNCT	Z:-------------	_	18	punct	_	_
 16	pro	pro	ADP	RR--4----------	AdpType=Prep|Case=Acc	18	case	_	_
