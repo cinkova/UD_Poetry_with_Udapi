@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Udapi visualization</title>
+<style>
+  .form {color: maroon;}
+  .lemma {color: purple;}
+  .upos {color: red;}
+  .deprel {color: blue;}
+  .ord {color: green;}
+  mark {box-shadow: 0px 0px 0px 1px red; font-weight: bold;}
+
+</style>
+</head>
+<body>
+<pre>
+docname = 0067-0001-0001-0000-0007-0000
+global.Entity = None
+loaded_from = -
+<table><tr>
+<td>
+# sent_id = 0591-0001-0002-0000-0002-0003_7/gold
+# text = Já vím, že Armand za vším duší stojí, je proto nadějí a vírou mojí a to snad stačí...
+─┮
+ │ ╭─╼ <span class='form'>Já</span> <span class='upos'>PRON</span> <span class='deprel'>nsubj</span>
+ ╰─┾ <span class='form'>vím</span> <span class='upos'>VERB</span> <span class='deprel'>root</span>
+   │ ╭─╼ <span class='form'>,</span> <span class='upos'>PUNCT</span> <span class='deprel'>punct</span>
+   │ ┢─╼ <span class='form'>že</span> <span class='upos'>SCONJ</span> <span class='deprel'>mark</span>
+   │ ┢─╼ <span class='form'>Armand</span> <span class='upos'>PROPN</span> <span class='deprel'>nsubj</span>
+   │ │ ╭─╼ <span class='form'>za</span> <span class='upos'>ADP</span> <span class='deprel'>case</span>
+   │ ┢─┶ <span class='form'>vším</span> <span class='upos'>DET</span> <span class='deprel'>obl:arg</span>
+   │ ┢─╼ <span class='form'>duší</span> <span class='upos'>NOUN</span> <span class='deprel'>obl</span>
+   ┡─┶ <span class='form'>stojí</span> <span class='upos'>VERB</span> <span class='deprel'>ccomp</span>
+   │ ╭─╼ <span class='form'>,</span> <span class='upos'>PUNCT</span> <span class='deprel'>punct</span>
+   │ ┢─╼ <span class='form'>je</span> <span class='upos'>AUX</span> <span class='deprel'>cop</span>
+   │ ┢─╼ <span class='form'>proto</span> <span class='upos'>CCONJ</span> <span class='deprel'>cc</span>
+   ┡─┾ <span class='form'>nadějí</span> <span class='upos'>NOUN</span> <span class='deprel'>conj</span>
+   │ │ ╭─╼ <span class='form'>a</span> <span class='upos'>CCONJ</span> <span class='deprel'>cc</span>
+   │ ┡─┶ <span class='form'>vírou</span> <span class='upos'>NOUN</span> <span class='deprel'>conj</span>
+   │ ╰─╼<mark> <span class='form'>mojí</span> <span class='upos'>DET</span> <span class='deprel'>det</span></mark>
+   │ ╭─╼ <span class='form'>a</span> <span class='upos'>CCONJ</span> <span class='deprel'>cc</span>
+   │ ┢─╼ <span class='form'>to</span> <span class='upos'>DET</span> <span class='deprel'>nsubj</span>
+   │ ┢─╼ <span class='form'>snad</span> <span class='upos'>ADV</span> <span class='deprel'>advmod</span>
+   ┡─┶ <span class='form'>stačí</span> <span class='upos'>VERB</span> <span class='deprel'>conj</span>
+   ┡─╼ <span class='form'>.</span> <span class='upos'>PUNCT</span> <span class='deprel'>punct</span>
+   ┡─╼ <span class='form'>.</span> <span class='upos'>PUNCT</span> <span class='deprel'>punct</span>
+   ╰─╼ <span class='form'>.</span> <span class='upos'>PUNCT</span> <span class='deprel'>punct</span>
+
+</td>
+<td>
+# sent_id = 0591-0001-0002-0000-0002-0003_7/auto
+# text = Já vím, že Armand za vším duší stojí, je proto nadějí a vírou mojí a to snad stačí...
+─┮
+ │ ╭─╼ <span class='form'>Já</span> <span class='upos'>PRON</span> <span class='deprel'>nsubj</span>
+ ╰─┾ <span class='form'>vím</span> <span class='upos'>VERB</span> <span class='deprel'>root</span>
+   │ ╭─╼ <span class='form'>,</span> <span class='upos'>PUNCT</span> <span class='deprel'>punct</span>
+   │ ┢─╼ <span class='form'>že</span> <span class='upos'>SCONJ</span> <span class='deprel'>mark</span>
+   │ ┢─╼ <span class='form'>Armand</span> <span class='upos'>PROPN</span> <span class='deprel'>nsubj</span>
+   │ │                    ╭─╼ <span class='form'>za</span> <span class='upos'>ADP</span> <span class='deprel'>case</span>
+   │ ┢─╼ <span class='form'>vším</span> <span class='upos'>DET</span> <span class='deprel'>obl:arg</span> │
+   │ ┢────────────────────┶ <span class='form'>duší</span> <span class='upos'>NOUN</span> <span class='deprel'>obl</span>
+   ┡─┾ <span class='form'>stojí</span> <span class='upos'>VERB</span> <span class='deprel'>ccomp</span>
+   │ │ ╭─╼ <span class='form'>,</span> <span class='upos'>PUNCT</span> <span class='deprel'>punct</span>
+   │ │ ┢─╼ <span class='form'>je</span> <span class='upos'>AUX</span> <span class='deprel'>cop</span>
+   │ │ ┢─╼ <span class='form'>proto</span> <span class='upos'>CCONJ</span> <span class='deprel'>cc</span>
+   │ ╰─┾ <span class='form'>nadějí</span> <span class='upos'>NOUN</span> <span class='deprel'>conj</span>
+   │   │ ╭─╼ <span class='form'>a</span> <span class='upos'>CCONJ</span> <span class='deprel'>cc</span>
+   │   ┡─┶ <span class='form'>vírou</span> <span class='upos'>NOUN</span> <span class='deprel'>conj</span>
+   │   ╰─╼<mark> <span class='form'>mojí</span> <span class='upos'>DET</span> <span class='deprel'>det</span></mark>
+   │ ╭─╼ <span class='form'>a</span> <span class='upos'>CCONJ</span> <span class='deprel'>cc</span>
+   │ ┢─╼ <span class='form'>to</span> <span class='upos'>DET</span> <span class='deprel'>nsubj</span>
+   │ ┢─╼ <span class='form'>snad</span> <span class='upos'>PART</span> <span class='deprel'>advmod</span>
+   ┡─┶ <span class='form'>stačí</span> <span class='upos'>VERB</span> <span class='deprel'>conj</span>
+   ┡─╼ <span class='form'>.</span> <span class='upos'>PUNCT</span> <span class='deprel'>punct</span>
+   ┡─╼ <span class='form'>.</span> <span class='upos'>PUNCT</span> <span class='deprel'>punct</span>
+   ╰─╼ <span class='form'>.</span> <span class='upos'>PUNCT</span> <span class='deprel'>punct</span>
+
+</td>
+</tr></table>
+<table><tr>
+<td>
+# sent_id = 0705-0004-0000-0000-0003-0000_12/gold
+# text = A on čeká velikým čekáním silných, neboť i jeho koráby přirazí ku břehům žití a vítězné i polnice jeho zástupů v Kanaán života vtrhnou, kde nalité hrozny révy pro všechna zardí se ústa na luzích, jež vzkvetou barvami, jak nepoznala jich země, zkropená rosou volných, širokých nebes, jež morózní suverén opustil, zahnán radostí lidskou.
+─┮
+ │ ╭─╼ <span class='form'>A</span> <span class='upos'>CCONJ</span> <span class='deprel'>advmod:emph</span>
+ │ ┢─╼ <span class='form'>on</span> <span class='upos'>PRON</span> <span class='deprel'>nsubj</span>
+ ╰─┾ <span class='form'>čeká</span> <span class='upos'>VERB</span> <span class='deprel'>root</span>
+   │ ╭─╼ <span class='form'>velikým</span> <span class='upos'>ADJ</span> <span class='deprel'>amod</span>
+   ┡─┾ <span class='form'>čekáním</span> <span class='upos'>NOUN</span> <span class='deprel'>obl</span>
+   │ ╰─╼ <span class='form'>silných</span> <span class='upos'>ADJ</span> <span class='deprel'>amod</span>
+   │ ╭─╼ <span class='form'>,</span> <span class='upos'>PUNCT</span> <span class='deprel'>punct</span>
+   │ ┢─╼ <span class='form'>neboť</span> <span class='upos'>CCONJ</span> <span class='deprel'>cc</span>
+   │ │ ╭─╼ <span class='form'>i</span> <span class='upos'>CCONJ</span> <span class='deprel'>advmod:emph</span>
+   │ │ ┢─╼ <span class='form'>jeho</span> <span class='upos'>DET</span> <span class='deprel'>det</span>
+   │ ┢─┶ <span class='form'>koráby</span> <span class='upos'>NOUN</span> <span class='deprel'>nsubj</span>
+   ┡─┾ <span class='form'>přirazí</span> <span class='upos'>VERB</span> <span class='deprel'>conj</span>
+   │ │ ╭─╼ <span class='form'>ku</span> <span class='upos'>ADP</span> <span class='deprel'>case</span>
+   │ ┡─┾ <span class='form'>břehům</span> <span class='upos'>NOUN</span> <span class='deprel'>obl</span>
+   │ │ ╰─╼ <span class='form'>žití</span> <span class='upos'>NOUN</span> <span class='deprel'>nmod</span>
+   │ │   ╭─╼ <span class='form'>a</span> <span class='upos'>CCONJ</span> <span class='deprel'>cc</span>
+   │ │   ┢─╼ <span class='form'>vítězné</span> <span class='upos'>ADJ</span> <span class='deprel'>dep</span>
+   │ │   ┢─╼ <span class='form'>i</span> <span class='upos'>CCONJ</span> <span class='deprel'>advmod:emph</span>
+   │ │ ╭─┾ <span class='form'>polnice</span> <span class='upos'>NOUN</span> <span class='deprel'>nsubj</span>
+   │ │ │ │ ╭─╼ <span class='form'>jeho</span> <span class='upos'>DET</span> <span class='deprel'>det</span>
+   │ │ │ ╰─┶ <span class='form'>zástupů</span> <span class='upos'>NOUN</span> <span class='deprel'>nmod</span>
+   │ │ │                   ╭─╼ <span class='form'>v</span> <span class='upos'>ADP</span> <span class='deprel'>case</span>
+   │ │ ┢───────────────────┾ <span class='form'>Kanaán</span> <span class='upos'>PROPN</span> <span class='deprel'>obl</span>
+   │ │ │                   ┡─╼ <span class='form'>života</span> <span class='upos'>NOUN</span> <span class='deprel'>nmod</span>
+   │ ╰─┶ <span class='form'>vtrhnou</span> <span class='upos'>VERB</span> <span class='deprel'>conj</span> │
+   │                       │ ╭─╼ <span class='form'>,</span> <span class='upos'>PUNCT</span> <span class='deprel'>punct</span>
+   │                       │ ┢─╼ <span class='form'>kde</span> <span class='upos'>ADV</span> <span class='deprel'>advmod</span>
+   │                       │ │ ╭─╼ <span class='form'>nalité</span> <span class='upos'>ADJ</span> <span class='deprel'>amod</span>
+   │                       │ ┢─┾ <span class='form'>hrozny</span> <span class='upos'>NOUN</span> <span class='deprel'>nsubj</span>
+   │                       │ │ ╰─╼ <span class='form'>révy</span> <span class='upos'>NOUN</span> <span class='deprel'>nmod</span>
+   │                       │ │                        ╭─╼ <span class='form'>pro</span> <span class='upos'>ADP</span> <span class='deprel'>case</span>
+   │                       │ │                      ╭─┶ <span class='form'>všechna</span> <span class='upos'>DET</span> <span class='deprel'>det</span>
+   │                       ╰─┾ <span class='form'>zardí</span> <span class='upos'>VERB</span> <span class='deprel'>acl:relcl</span> │
+   │                         ┡─╼ <span class='form'>se</span> <span class='upos'>PRON</span> <span class='deprel'>expl:pv</span>    │
+   │                         ┡──────────────────────┶ <span class='form'>ústa</span> <span class='upos'>NOUN</span> <span class='deprel'>obl</span>
+   │                         │ ╭─╼ <span class='form'>na</span> <span class='upos'>ADP</span> <span class='deprel'>case</span>
+   │                         ╰─┾ <span class='form'>luzích</span> <span class='upos'>NOUN</span> <span class='deprel'>obl</span>
+   │                           │ ╭─╼ <span class='form'>,</span> <span class='upos'>PUNCT</span> <span class='deprel'>punct</span>
+   │                           │ ┢─╼ <span class='form'>jež</span> <span class='upos'>PRON</span> <span class='deprel'>nsubj</span>
+   │                           ╰─┾ <span class='form'>vzkvetou</span> <span class='upos'>VERB</span> <span class='deprel'>acl:relcl</span>
+   │                             ┡─╼ <span class='form'>barvami</span> <span class='upos'>NOUN</span> <span class='deprel'>obl</span>
+   │                             │ ╭─╼ <span class='form'>,</span> <span class='upos'>PUNCT</span> <span class='deprel'>punct</span>
+   │                             │ ┢─╼ <span class='form'>jak</span> <span class='upos'>ADV</span> <span class='deprel'>advmod</span>
+   │                             ╰─┾ <span class='form'>nepoznala</span> <span class='upos'>VERB</span> <span class='deprel'>advcl</span>
+   │                               ┡─╼ <span class='form'>jich</span> <span class='upos'>PRON</span> <span class='deprel'>obl:arg</span>
+   │                               ╰─┮ <span class='form'>země</span> <span class='upos'>NOUN</span> <span class='deprel'>nsubj</span>
+   │                                 │ ╭─╼ <span class='form'>,</span> <span class='upos'>PUNCT</span> <span class='deprel'>punct</span>
+   │                                 ╰─┾ <span class='form'>zkropená</span> <span class='upos'>ADJ</span> <span class='deprel'>amod</span>
+   │                                   ╰─┮ <span class='form'>rosou</span> <span class='upos'>NOUN</span> <span class='deprel'>obl</span>
+   │                                     │ ╭─┮ <span class='form'>volných</span> <span class='upos'>ADJ</span> <span class='deprel'>amod</span>
+   │                                     │ │ │ ╭─╼ <span class='form'>,</span> <span class='upos'>PUNCT</span> <span class='deprel'>punct</span>
+   │                                     │ │ ╰─┶ <span class='form'>širokých</span> <span class='upos'>ADJ</span> <span class='deprel'>conj</span>
+   │                                     ╰─┾ <span class='form'>nebes</span> <span class='upos'>NOUN</span> <span class='deprel'>nmod</span>
+   │                                       │ ╭─╼ <span class='form'>,</span> <span class='upos'>PUNCT</span> <span class='deprel'>punct</span>
+   │                                       │ ┢─╼ <span class='form'>jež</span> <span class='upos'>PRON</span> <span class='deprel'>obj</span>
+   │                                       │ │ ╭─╼ <span class='form'>morózní</span> <span class='upos'>ADJ</span> <span class='deprel'>amod</span>
+   │                                       │ ┢─┶ <span class='form'>suverén</span> <span class='upos'>NOUN</span> <span class='deprel'>nsubj</span>
+   │                                       ╰─┾ <span class='form'>opustil</span> <span class='upos'>VERB</span> <span class='deprel'>acl:relcl</span>
+   │                                         │ ╭─╼ <span class='form'>,</span> <span class='upos'>PUNCT</span> <span class='deprel'>punct</span>
+   │                                         ╰─┾ <span class='form'>zahnán</span> <span class='upos'>ADJ</span> <span class='deprel'>advcl</span>
+   │                                           ╰─┮ <span class='form'>radostí</span> <span class='upos'>NOUN</span> <span class='deprel'>obl:arg</span>
+   │                                             ╰─╼ <span class='form'>lidskou</span> <span class='upos'>ADJ</span> <span class='deprel'>amod</span>
+   ╰─╼ <span class='form'>.</span> <span class='upos'>PUNCT</span> <span class='deprel'>punct</span>
+
+</td>
+<td>
+# sent_id = 0705-0004-0000-0000-0003-0000_12/auto
+# text = A on čeká velikým čekáním silných, neboť i jeho koráby přirazí ku břehům žití a vítězné i polnice jeho zástupů v Kanaán života vtrhnou, kde nalité hrozny révy pro všechna zardí se ústa na luzích, jež vzkvetou barvami, jak nepoznala jich země, zkropená rosou volných, širokých nebes, jež morózní suverén opustil, zahnán radostí lidskou.
+─┮
+ │ ╭─╼ <span class='form'>A</span> <span class='upos'>CCONJ</span> <span class='deprel'>cc</span>
+ │ ┢─╼ <span class='form'>on</span> <span class='upos'>PRON</span> <span class='deprel'>nsubj</span>
+ ╰─┾ <span class='form'>čeká</span> <span class='upos'>VERB</span> <span class='deprel'>root</span>
+   │ ╭─╼ <span class='form'>velikým</span> <span class='upos'>ADJ</span> <span class='deprel'>amod</span>
+   ┡─┾ <span class='form'>čekáním</span> <span class='upos'>NOUN</span> <span class='deprel'>obl</span>
+   │ ╰─╼ <span class='form'>silných</span> <span class='upos'>ADJ</span> <span class='deprel'>amod</span>
+   │ ╭─╼ <span class='form'>,</span> <span class='upos'>PUNCT</span> <span class='deprel'>punct</span>
+   │ ┢─╼ <span class='form'>neboť</span> <span class='upos'>CCONJ</span> <span class='deprel'>cc</span>
+   │ │ ╭─╼ <span class='form'>i</span> <span class='upos'>CCONJ</span> <span class='deprel'>advmod:emph</span>
+   │ │ ┢─╼ <span class='form'>jeho</span> <span class='upos'>DET</span> <span class='deprel'>det</span>
+   │ ┢─┶ <span class='form'>koráby</span> <span class='upos'>NOUN</span> <span class='deprel'>nsubj</span>
+   ┡─┾ <span class='form'>přirazí</span> <span class='upos'>VERB</span> <span class='deprel'>conj</span>
+   │ │ ╭─╼ <span class='form'>ku</span> <span class='upos'>ADP</span> <span class='deprel'>case</span>
+   │ ┡─┾ <span class='form'>břehům</span> <span class='upos'>NOUN</span> <span class='deprel'>obl</span>
+   │ │ ╰─╼ <span class='form'>žití</span> <span class='upos'>NOUN</span> <span class='deprel'>nmod</span>
+   │ │ ╭─╼ <span class='form'>a</span> <span class='upos'>CCONJ</span> <span class='deprel'>cc</span>
+   │ │ ┢─┮ <span class='form'>vítězné</span> <span class='upos'>ADJ</span> <span class='deprel'>dep</span>
+   │ │ │ │ ╭─╼ <span class='form'>i</span> <span class='upos'>CCONJ</span> <span class='deprel'>cc</span>
+   │ │ │ ╰─┾ <span class='form'>polnice</span> <span class='upos'>NOUN</span> <span class='deprel'>conj</span>
+   │ │ │   │ ╭─╼ <span class='form'>jeho</span> <span class='upos'>DET</span> <span class='deprel'>det</span>
+   │ │ │   ╰─┶ <span class='form'>zástupů</span> <span class='upos'>NOUN</span> <span class='deprel'>nmod</span>
+   │ │ │ ╭─╼ <span class='form'>v</span> <span class='upos'>ADP</span> <span class='deprel'>case</span>
+   │ │ ┢─┾ <span class='form'>Kanaán</span> <span class='upos'>PROPN</span> <span class='deprel'>obl</span>
+   │ │ │ ╰─╼ <span class='form'>života</span> <span class='upos'>NOUN</span> <span class='deprel'>nmod</span>
+   │ ╰─┾ <span class='form'>vtrhnou</span> <span class='upos'>VERB</span> <span class='deprel'>conj</span>
+   │   │ ╭─╼ <span class='form'>,</span> <span class='upos'>PUNCT</span> <span class='deprel'>punct</span>
+   │   │ ┢─╼ <span class='form'>kde</span> <span class='upos'>ADV</span> <span class='deprel'>advmod</span>
+   │   │ │ ╭─╼ <span class='form'>nalité</span> <span class='upos'>ADJ</span> <span class='deprel'>amod</span>
+   │   │ ┢─┾ <span class='form'>hrozny</span> <span class='upos'>NOUN</span> <span class='deprel'>nsubj</span>
+   │   │ │ ┡─╼ <span class='form'>révy</span> <span class='upos'>NOUN</span> <span class='deprel'>nmod</span>
+   │   │ │ │ ╭─╼ <span class='form'>pro</span> <span class='upos'>ADP</span> <span class='deprel'>case</span>
+   │   │ │ ╰─┶<mark> <span class='form'>všechna</span> <span class='upos'>DET</span> <span class='deprel'>det</span></mark>
+   │   ╰─┾ <span class='form'>zardí</span> <span class='upos'>VERB</span> <span class='deprel'>advcl</span>
+   │     ┡─╼ <span class='form'>se</span> <span class='upos'>PRON</span> <span class='deprel'>expl:pv</span>
+   │     ┡─╼ <span class='form'>ústa</span> <span class='upos'>NOUN</span> <span class='deprel'>obl</span>
+   │     │ ╭─╼ <span class='form'>na</span> <span class='upos'>ADP</span> <span class='deprel'>case</span>
+   │     ╰─┾ <span class='form'>luzích</span> <span class='upos'>NOUN</span> <span class='deprel'>obl</span>
+   │       │ ╭─╼ <span class='form'>,</span> <span class='upos'>PUNCT</span> <span class='deprel'>punct</span>
+   │       │ ┢─╼ <span class='form'>jež</span> <span class='upos'>PRON</span> <span class='deprel'>nsubj</span>
+   │       ╰─┾ <span class='form'>vzkvetou</span> <span class='upos'>VERB</span> <span class='deprel'>acl:relcl</span>
+   │         ┡─╼ <span class='form'>barvami</span> <span class='upos'>NOUN</span> <span class='deprel'>obl</span>
+   │         │ ╭─╼ <span class='form'>,</span> <span class='upos'>PUNCT</span> <span class='deprel'>punct</span>
+   │         │ ┢─╼ <span class='form'>jak</span> <span class='upos'>ADV</span> <span class='deprel'>advmod</span>
+   │         ╰─┾ <span class='form'>nepoznala</span> <span class='upos'>VERB</span> <span class='deprel'>advcl</span>
+   │           ┡─╼ <span class='form'>jich</span> <span class='upos'>PRON</span> <span class='deprel'>obl:arg</span>
+   │           ╰─┮ <span class='form'>země</span> <span class='upos'>NOUN</span> <span class='deprel'>nsubj</span>
+   │             │ ╭─╼ <span class='form'>,</span> <span class='upos'>PUNCT</span> <span class='deprel'>punct</span>
+   │             ╰─┾ <span class='form'>zkropená</span> <span class='upos'>ADJ</span> <span class='deprel'>amod</span>
+   │               ╰─┮ <span class='form'>rosou</span> <span class='upos'>NOUN</span> <span class='deprel'>obl</span>
+   │                 │ ╭─┮ <span class='form'>volných</span> <span class='upos'>ADJ</span> <span class='deprel'>amod</span>
+   │                 │ │ │ ╭─╼ <span class='form'>,</span> <span class='upos'>PUNCT</span> <span class='deprel'>punct</span>
+   │                 │ │ ╰─┶ <span class='form'>širokých</span> <span class='upos'>ADJ</span> <span class='deprel'>conj</span>
+   │                 ╰─┾ <span class='form'>nebes</span> <span class='upos'>NOUN</span> <span class='deprel'>nmod</span>
+   │                   │ ╭─╼ <span class='form'>,</span> <span class='upos'>PUNCT</span> <span class='deprel'>punct</span>
+   │                   │ ┢─╼ <span class='form'>jež</span> <span class='upos'>PRON</span> <span class='deprel'>obj</span>
+   │                   │ │ ╭─╼ <span class='form'>morózní</span> <span class='upos'>ADJ</span> <span class='deprel'>amod</span>
+   │                   │ ┢─┶ <span class='form'>suverén</span> <span class='upos'>NOUN</span> <span class='deprel'>nsubj</span>
+   │                   ╰─┾ <span class='form'>opustil</span> <span class='upos'>VERB</span> <span class='deprel'>acl:relcl</span>
+   │                     │ ╭─╼ <span class='form'>,</span> <span class='upos'>PUNCT</span> <span class='deprel'>punct</span>
+   │                     ╰─┾ <span class='form'>zahnán</span> <span class='upos'>ADJ</span> <span class='deprel'>xcomp</span>
+   │                       ╰─┮ <span class='form'>radostí</span> <span class='upos'>NOUN</span> <span class='deprel'>obl:arg</span>
+   │                         ╰─╼ <span class='form'>lidskou</span> <span class='upos'>ADJ</span> <span class='deprel'>amod</span>
+   ╰─╼ <span class='form'>.</span> <span class='upos'>PUNCT</span> <span class='deprel'>punct</span>
+
+</td>
+</tr></table>
+</pre>
+</body>
+</html>
