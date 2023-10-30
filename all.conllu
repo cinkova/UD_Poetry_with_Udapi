@@ -5672,7 +5672,7 @@
 58	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	60	case	_	_
 59	jichž	jejichž	DET	P9XP6----------	Case=Loc|Number=Plur|Poss=Yes|PronType=Rel	60	amod	_	_
 60	hledání	hledání	NOUN	NNNS6-----A----	Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	63	obl	_	_
-61	jsme	být	AUX	VB-P---1P-AA---	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	63	aux	_	_
+61	jsme	být	AUX	VB-P---1P-AA---	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	63	cop	_	_
 62	praví	pravý	ADJ	AAMP1----1A----	Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	63	amod	_	_
 63	Kolumbové	Kolumbus	PROPN	NNMP1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Plur|Polarity=Pos	55	acl:relcl	_	SpaceAfter=No
 64	)	)	PUNCT	Z:-------------	_	63	punct	_	SpaceAfter=No
