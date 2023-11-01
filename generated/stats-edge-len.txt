@@ -16,8 +16,37 @@ matches 52 out of 6288 nodes (0.8%) in 41 out of 297 trees (13.8%)
 
 === AUTO ====
 node.misc["PreGenNmod"] and node.misc["ParseErr"]
-matches 0 out of 6281 nodes (0.0%) in 0 out of 297 trees (0.0%)
-=== edge (-1 value) ===
+matches 44 out of 6281 nodes (0.7%) in 35 out of 297 trees (11.8%)
+=== edge (14 values) ===
+              3     8  18% delta=+13%
+              1     7  15% delta= +3%
+             -2     5  11% delta= +0%
+             -1     5  11% delta=-16%
+              2     4   9% delta= +0%
+             -3     3   6% delta= +1%
+              4     3   6% delta= +3%
+              5     2   4% delta= +2%
+             -4     2   4% delta= +1%
+              0     1   2% delta= -2%
+            -13     1   2% delta= +2%
+            -10     1   2% delta= +1%
+              7     1   2% delta= +0%
+              6     1   2% delta= +0%
 node.misc["PreGenNmod"]
-matches 0 out of 6281 nodes (0.0%) in 0 out of 297 trees (0.0%)
-=== edge (-1 value) ===
+matches 52 out of 6281 nodes (0.8%) in 41 out of 297 trees (13.8%)
+=== edge (15 values) ===
+              3     9  17% delta=+12%
+              1     8  15% delta= +3%
+             -1     6  11% delta=-16%
+              2     5   9% delta= +1%
+             -2     5   9% delta= -1%
+              4     5   9% delta= +6%
+             -3     3   5% delta= +0%
+              5     2   3% delta= +1%
+              6     2   3% delta= +2%
+             -4     2   3% delta= +0%
+             -8     1   1% delta= +1%
+              0     1   1% delta= -2%
+            -13     1   1% delta= +1%
+            -10     1   1% delta= +1%
+              7     1   1% delta= +0%
