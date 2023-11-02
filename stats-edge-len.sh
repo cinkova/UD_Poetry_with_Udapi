@@ -13,6 +13,7 @@ for DATA in poetree pdt-test; do
   )' \
   write.Conllu files=$DATA-marked.conllu \
   .EdgeStats files=generated/stats-$DATA-edges.tsv misc_attrs=PreGenNmod
+  cat generated/stats-$DATA-edges.tsv | ./analyze-edge-stats.py > generated/stats-$DATA-edges-summarized.tsv
 done
 
 
