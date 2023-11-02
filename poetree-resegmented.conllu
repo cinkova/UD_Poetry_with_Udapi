@@ -528,14 +528,12 @@
 # text = Bijem se v pravo, bijem v levo, až jiskří našich mečů zář: pro rodné slovo, mluvu matky, pro víru, pravdu, pro oltář.
 1	Bijem	bít	VERB	VB-S---1P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	1	expl:pv	_	_
-3-4	vpravo	_	_	_	_	_	_	_	SpaceAfter=No
 3	v	v	ADP	NNNS4-----A----	AdpType=Prep|Case=Loc	4	case	_	_
-4	pravo	pravo	NOUN	NNNS4-----A----	Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos	1	obl	_	_
+4	pravo	pravo	NOUN	NNNS4-----A----	Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos	1	obl	_	SpaceAfter=No
 5	,	,	PUNCT	Z:-------------	_	6	punct	_	_
 6	bijem	bít	VERB	VB-S---1P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
-7-8	vlevo	_	_	_	_	_	_	_	SpaceAfter=No
 7	v	v	ADP	NNNS4-----A----	AdpType=Prep|Case=Loc	8	case	_	_
-8	levo	levo	NOUN	NNNS4-----A----	Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos	6	obl	_	_
+8	levo	levo	NOUN	NNNS4-----A----	Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos	6	obl	_	SpaceAfter=No
 9	,	,	PUNCT	Z:-------------	_	11	punct	_	_
 10	až	až	SCONJ	J,-------------	_	11	mark	_	_
 11	jiskří	jiskřit	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	_
@@ -1314,7 +1312,7 @@
 16-17	že’s	_	_	_	_	_	_	_	_
 16	že	že	SCONJ	NNMS1-----A----	_	18	mark	_	_
 17	jsi	být	AUX	NNMS1-----A----	_	18	aux	_	_
-18	odešel	odejít	VERB	VpYS---XR-AA---	Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	12	advmod	_	_
+18	odešel	odejít	VERB	VpYS---XR-AA---	Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	12	advcl	_	_
 19	v	v	ADP	RR--4----------	AdpType=Prep|Case=Acc	20	case	_	_
 20	den	den	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	18	obl	_	_
 21	strašných	strašný	ADJ	AAIP2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	22	amod	_	_
@@ -6079,9 +6077,8 @@
 6	skrání	skráň	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	7	obl	_	_
 7	trhá	trhat	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 8	závoj	závoj	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	7	obj	_	_
-9-10	z nenadání	_	_	_	_	_	_	_	SpaceAfter=No
 9	z	z	ADP	RR--2----------	AdpType=Prep|Case=Gen	10	case	_	_
-10	nenadání	nenadání	NOUN	NNNS2-----N----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Neg	7	obl	_	_
+10	nenadání	nenadání	NOUN	NNNS2-----N----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Neg	7	obl	_	SpaceAfter=No
 11	,	,	PUNCT	Z:-------------	_	16	punct	_	_
 12	než	než	SCONJ	J,-------------	_	16	mark	_	_
 13	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	16	expl:pv	_	_
@@ -6495,7 +6492,6 @@
 # sent_id = 0674-0001-0006-0000-0019-0000_4/gold
 # text = Pocestný u prostřed síně sedí, Poslouchaje naň čeládka hledí;
 1	Pocestný	pocestný	ADJ	AAMS1----1A----	Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	5	nsubj	_	_
-2-3	u prostřed	_	_	_	_	_	_	_	_
 2	u	u	ADP	RR--2----------	AdpType=Prep|Case=Gen	4	case	_	_
 3	prostřed	prostřed	ADP	NNNP2-----A----	AdpType=Prep|Case=Gen	2	fixed	_	_
 4	síně	síň	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	5	obl	_	_
