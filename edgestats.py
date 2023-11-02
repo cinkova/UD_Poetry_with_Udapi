@@ -15,7 +15,7 @@ class EdgeStats(BaseWriter):
             p_ord, pp_ord, p_deprel = str(p_node.ord), str(p_node.parent.ord), p_node.deprel
         if g_node:
             g_ord, gp_ord, g_deprel = str(g_node.ord), str(g_node.parent.ord), g_node.deprel
-            values = [g_node.misc[a] for a in self.attrs]
+            values = [str(g_node.misc[a]) for a in self.attrs]
         else:
             values = ["" for a in self.attrs]
         if p_node and g_node:
